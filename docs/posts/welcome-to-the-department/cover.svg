@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B6E4F"/>
+      <stop offset="100%" stop-color="#083F2E"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#g1)"/>
+  <path d="M0 240 H160 L190 190 L220 300 L250 240 H320 L340 210 L360 270 L380 240 H800"
+        fill="none" stroke="#E7F3EC" stroke-width="4" opacity="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="60" y="150" font-family="Georgia, serif" font-weight="600" font-size="42" fill="#FBFDFC">Welcome</text>
+  <text x="60" y="185" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#BFE0CE">Department Blog</text>
+</svg>

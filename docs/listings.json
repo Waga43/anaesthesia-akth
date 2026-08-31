@@ -1,0 +1,111 @@
+[
+  {
+    "listing": "/team.html",
+    "items": [
+      "/team/dr-zinnat-alhassan/index.html",
+      "/team/dr-alfa-mikailu/index.html",
+      "/team/dr-ismail/index.html",
+      "/team/dr-kabiru/index.html",
+      "/team/dr-rukayya-sidi/index.html",
+      "/team/dr-usman-nagoma/index.html",
+      "/team/dr-atiku-mamuda/index.html",
+      "/team/dr-dalhat-salahu/index.html",
+      "/team/dr-mustapha-miko/index.html",
+      "/team/prof-alhassan-datti/index.html"
+    ]
+  },
+  {
+    "listing": "/seminars.html",
+    "items": [
+      "/seminars/sepsis-bundle-seminar/index.html",
+      "/seminars/difficult-airway-seminar/index.html",
+      "/seminars/pain-management-seminar/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/manuscripts/poc-ultrasound-regional-guide/index.html",
+      "/research/manuscripts/obstetric-handover-guide/index.html",
+      "/research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/index.html",
+      "/research/out-of-hospital-cpr-nigeria/index.html",
+      "/research/cardiac-arrest-underlying-conditions-nigeria/index.html",
+      "/research/postoperative-pain-research-priorities-delphi/index.html",
+      "/research/graded-epidural-hysterectomy-congenital-heart-disease/index.html",
+      "/research/burnout-anaesthesia-providers-ssa/index.html",
+      "/research/acios-critical-illness-africa/index.html",
+      "/research/difficult-airway-neonate-sublingual-cyst/index.html",
+      "/research/fascia-iliaca-block-femoral-fracture/index.html",
+      "/research/ketamine-stability-after-reconstitution/index.html",
+      "/research/asos-paeds-outcomes-children-africa/index.html",
+      "/research/airway-management-laparoscopic-igel-proseal/index.html",
+      "/research/ett-cuff-pressure-loss-of-resistance/index.html",
+      "/research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/index.html",
+      "/research/intraoperative-cardiac-arrest-anomalous-coronary/index.html",
+      "/research/subarachnoid-lavage-intrathecal-txa/index.html",
+      "/research/groin-enterocutaneous-fistula-infant/index.html",
+      "/research/suxamethonium-propofol-lma/index.html",
+      "/research/asos-nigerian-surgical-outcomes/index.html",
+      "/research/anaesthesia-perception-caesarean/index.html",
+      "/research/septic-arthritis-pattern-northern-nigeria/index.html"
+    ]
+  },
+  {
+    "listing": "/journals.html",
+    "items": [
+      "/journal-listings/2026-08-31-notice-feeds-unavailable.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/icu-ward-round-checklist/index.html",
+      "/posts/world-anaesthesia-day-2026/index.html",
+      "/posts/welcome-to-the-department/index.html",
+      "/team/dr-zinnat-alhassan/index.html",
+      "/team/dr-alfa-mikailu/index.html",
+      "/team/dr-ismail/index.html",
+      "/team/dr-kabiru/index.html",
+      "/team/dr-rukayya-sidi/index.html",
+      "/team/dr-usman-nagoma/index.html",
+      "/team/dr-atiku-mamuda/index.html",
+      "/team/dr-dalhat-salahu/index.html",
+      "/team/dr-mustapha-miko/index.html",
+      "/team/prof-alhassan-datti/index.html",
+      "/research/manuscripts/poc-ultrasound-regional-guide/index.html",
+      "/research/manuscripts/obstetric-handover-guide/index.html",
+      "/research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/index.html",
+      "/research/out-of-hospital-cpr-nigeria/index.html",
+      "/research/cardiac-arrest-underlying-conditions-nigeria/index.html",
+      "/research/postoperative-pain-research-priorities-delphi/index.html",
+      "/research/graded-epidural-hysterectomy-congenital-heart-disease/index.html",
+      "/research/burnout-anaesthesia-providers-ssa/index.html",
+      "/research/acios-critical-illness-africa/index.html",
+      "/research/difficult-airway-neonate-sublingual-cyst/index.html",
+      "/research/fascia-iliaca-block-femoral-fracture/index.html",
+      "/research/ketamine-stability-after-reconstitution/index.html",
+      "/research/asos-paeds-outcomes-children-africa/index.html",
+      "/research/airway-management-laparoscopic-igel-proseal/index.html",
+      "/research/ett-cuff-pressure-loss-of-resistance/index.html",
+      "/research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/index.html",
+      "/research/intraoperative-cardiac-arrest-anomalous-coronary/index.html",
+      "/research/subarachnoid-lavage-intrathecal-txa/index.html",
+      "/research/groin-enterocutaneous-fistula-infant/index.html",
+      "/research/suxamethonium-propofol-lma/index.html",
+      "/research/asos-nigerian-surgical-outcomes/index.html",
+      "/research/anaesthesia-perception-caesarean/index.html",
+      "/research/septic-arthritis-pattern-northern-nigeria/index.html",
+      "/seminars/sepsis-bundle-seminar/index.html",
+      "/seminars/difficult-airway-seminar/index.html",
+      "/seminars/pain-management-seminar/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/icu-ward-round-checklist/index.html",
+      "/posts/world-anaesthesia-day-2026/index.html",
+      "/posts/welcome-to-the-department/index.html"
+    ]
+  }
+]

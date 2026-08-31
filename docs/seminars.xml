@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Anaesthesia &amp; Intensive Care · AKTH</title>
+<link>https://waga43.github.io/anaesthesia-akth/seminars.html</link>
+<atom:link href="https://waga43.github.io/anaesthesia-akth/seminars.xml" rel="self" type="application/rss+xml"/>
+<description>Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital — clinical care, education and research, affiliated with the Nigerian Society of Anaesthetists.</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Wed, 29 Jul 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Sepsis Bundle in the ICU: What the Evidence Says</title>
+  <dc:creator>Anaesthesia Residency Programme</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p class="seminar-meta">
+Departmental seminar series · Presented by a resident in the Anaesthesia Residency Programme · Open to all departmental staff
+</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This seminar reviewed the evidence behind early sepsis bundles, how bundle compliance is tracked, and where local resource constraints require adapting international recommendations to our ICU setting.</p>
+<p>Topics included:</p>
+<ul>
+<li>Recognising sepsis and septic shock at the bedside</li>
+<li>The 1-hour bundle: blood cultures, lactate, broad-spectrum antibiotics, fluids, and vasopressors</li>
+<li>Practical adaptations where culture turnaround or specific antibiotics are not immediately available</li>
+<li>Auditing bundle compliance on our unit</li>
+</ul>
+<div class="download-card">
+<span class="download-icon">📊</span>
+<div>
+<div class="download-label">
+Seminar slides
+</div>
+<div class="download-sub">
+Placeholder — upload the presentation file and link it here (PDF or PPTX).
+</div>
+</div>
+</div>
+<p><em>This is a template entry. To publish an actual seminar, replace this content with the presenter’s name, date, and slide file, following the pattern in this post’s source file (<code>seminars/sepsis-bundle-seminar/index.qmd</code>).</em></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{residency_programme2026,
+  author = {Residency Programme, Anaesthesia},
+  title = {The {Sepsis} {Bundle} in the {ICU:} {What} the {Evidence}
+    {Says}},
+  date = {2026-07-30},
+  url = {https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-residency_programme2026" class="csl-entry quarto-appendix-citeas">
+Residency Programme, Anaesthesia. 2026. <span>“The Sepsis Bundle in the
+ICU: What the Evidence Says.”</span> July 30. <a href="https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/">https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/</a>.
+</div></div></section></div> ]]></description>
+  <category>seminar</category>
+  <category>intensive-care</category>
+  <category>teaching</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/</guid>
+  <pubDate>Wed, 29 Jul 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Difficult Airway Algorithms in Practice</title>
+  <dc:creator>Anaesthesia Residency Programme</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p class="seminar-meta">
+Departmental seminar series · Presented by a resident in the Anaesthesia Residency Programme · Open to all departmental staff
+</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This seminar reviewed structured approaches to difficult airway management, aligning departmental practice with recognised international algorithms and the equipment available on our airway trolleys.</p>
+<p>Topics included:</p>
+<ul>
+<li>Pre-operative difficult airway prediction (Mallampati, thyromental distance, and their limitations)</li>
+<li>The unanticipated difficult airway algorithm — plan A through D</li>
+<li>Front-of-neck access: indications and departmental equipment</li>
+<li>Human factors in a crisis: communication and role allocation</li>
+</ul>
+<div class="download-card">
+<span class="download-icon">📊</span>
+<div>
+<div class="download-label">
+Seminar slides
+</div>
+<div class="download-sub">
+Placeholder — upload the presentation file and link it here (PDF or PPTX).
+</div>
+</div>
+</div>
+<p><em>This is a template entry. To publish an actual seminar, replace this content with the presenter’s name, date, and slide file, following the pattern in this post’s source file (<code>seminars/difficult-airway-seminar/index.qmd</code>).</em></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{residency_programme2026,
+  author = {Residency Programme, Anaesthesia},
+  title = {Difficult {Airway} {Algorithms} in {Practice}},
+  date = {2026-06-25},
+  url = {https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-residency_programme2026" class="csl-entry quarto-appendix-citeas">
+Residency Programme, Anaesthesia. 2026. <span>“Difficult Airway
+Algorithms in Practice.”</span> June 25. <a href="https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/">https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/</a>.
+</div></div></section></div> ]]></description>
+  <category>seminar</category>
+  <category>airway-management</category>
+  <category>teaching</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/</guid>
+  <pubDate>Wed, 24 Jun 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Acute Post-Operative Pain Management: A Departmental Seminar</title>
+  <dc:creator>Anaesthesia Residency Programme</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p class="seminar-meta">
+Departmental seminar series · Presented by a resident in the Anaesthesia Residency Programme · Open to all departmental staff
+</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This seminar covered the principles of multimodal analgesia for post-operative pain, the department’s acute pain service workflow, and common pitfalls in prescribing opioid and non-opioid analgesia on surgical wards.</p>
+<p>Topics included:</p>
+<ul>
+<li>The WHO analgesic ladder, adapted for acute post-operative pain</li>
+<li>Multimodal analgesia — combining paracetamol, NSAIDs (where not contraindicated), and regional techniques to reduce opioid requirement</li>
+<li>Recognising and managing opioid-related side effects on the ward</li>
+<li>When to escalate to the acute pain service</li>
+</ul>
+<div class="download-card">
+<span class="download-icon">📊</span>
+<div>
+<div class="download-label">
+Seminar slides
+</div>
+<div class="download-sub">
+Placeholder — upload the presentation file and link it here (PDF or PPTX).
+</div>
+</div>
+</div>
+<p><em>This is a template entry. To publish an actual seminar, replace this content with the presenter’s name, date, and slide file, following the pattern in this post’s source file (<code>seminars/pain-management-seminar/index.qmd</code>).</em></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{residency_programme2026,
+  author = {Residency Programme, Anaesthesia},
+  title = {Acute {Post-Operative} {Pain} {Management:} {A}
+    {Departmental} {Seminar}},
+  date = {2026-05-14},
+  url = {https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-residency_programme2026" class="csl-entry quarto-appendix-citeas">
+Residency Programme, Anaesthesia. 2026. <span>“Acute Post-Operative Pain
+Management: A Departmental Seminar.”</span> May 14. <a href="https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/">https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/</a>.
+</div></div></section></div> ]]></description>
+  <category>seminar</category>
+  <category>pain-management</category>
+  <category>teaching</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/</guid>
+  <pubDate>Wed, 13 May 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Anaesthesia &amp; Intensive Care · AKTH</title>
+<link>https://waga43.github.io/anaesthesia-akth/blog.html</link>
+<atom:link href="https://waga43.github.io/anaesthesia-akth/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital — clinical care, education and research, affiliated with the Nigerian Society of Anaesthetists.</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Tue, 03 Nov 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>A Simple ICU Ward Round Checklist Worth Repeating</title>
+  <dc:creator>ICU Team</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/posts/icu-ward-round-checklist/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Structured checklists reduce missed items on busy multidisciplinary ward rounds. Many departments use a version of the <strong>FAST HUG</strong> mnemonic, and it remains a useful teaching anchor for residents new to the intensive care unit:</p>
+<ul>
+<li><strong>F</strong> — Feeding: is the patient adequately and safely nourished?</li>
+<li><strong>A</strong> — Analgesia: is pain being assessed and controlled?</li>
+<li><strong>S</strong> — Sedation: is the sedation target appropriate, and reviewed daily?</li>
+<li><strong>T</strong> — Thromboprophylaxis: has VTE prophylaxis been considered?</li>
+<li><strong>H</strong> — Head-of-bed elevation: is aspiration/VAP risk being minimised?</li>
+<li><strong>U</strong> — stress Ulcer prophylaxis: is it indicated, and still needed?</li>
+<li><strong>G</strong> — Glucose control: is glycaemic control within target range?</li>
+</ul>
+<section id="using-it-well" class="level2">
+<h2 class="anchored" data-anchor-id="using-it-well">Using it well</h2>
+<p>A checklist is only useful if it prompts a genuine review rather than a box-ticking exercise. On our unit, the checklist is read aloud during the consultant-led round, with the bedside nurse and resident confirming each item against the patient in front of them — not from memory.</p>
+<p>We will keep sharing short teaching notes like this one. If you have a topic you’d like covered, <a href="mailto:anaesthesia@akth.org.ng">reach out to the department</a>.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{team2026,
+  author = {Team, ICU},
+  title = {A {Simple} {ICU} {Ward} {Round} {Checklist} {Worth}
+    {Repeating}},
+  date = {2026-11-04},
+  url = {https://waga43.github.io/anaesthesia-akth/posts/icu-ward-round-checklist/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-team2026" class="csl-entry quarto-appendix-citeas">
+Team, ICU. 2026. <span>“A Simple ICU Ward Round Checklist Worth
+Repeating.”</span> November 4. <a href="https://waga43.github.io/anaesthesia-akth/posts/icu-ward-round-checklist/">https://waga43.github.io/anaesthesia-akth/posts/icu-ward-round-checklist/</a>.
+</div></div></section></div> ]]></description>
+  <category>teaching</category>
+  <category>intensive-care</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/posts/icu-ward-round-checklist/</guid>
+  <pubDate>Tue, 03 Nov 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/posts/icu-ward-round-checklist/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Marking World Anaesthesia Day at AKTH</title>
+  <dc:creator>Department of Anaesthesia &amp; Intensive Care</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/posts/world-anaesthesia-day-2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Every year on 16 October, the anaesthesia community marks <strong>World Anaesthesia Day</strong>, commemorating the first successful public demonstration of ether anaesthesia in 1846.</p>
+<p>At AKTH, the department used the day to run a short in-house symposium for residents, nurse anaesthetists and theatre staff, focused on:</p>
+<ol type="1">
+<li><strong>Peri-operative patient safety checklists</strong> — reinforcing consistent use of the WHO Surgical Safety Checklist.</li>
+<li><strong>Team communication</strong> — structured handover between theatre, recovery and the intensive care unit.</li>
+<li><strong>Local data review</strong> — a short audit of anaesthesia-related adverse events over the past quarter, and what they teach us.</li>
+</ol>
+<section id="a-shared-global-effort" class="level2">
+<h2 class="anchored" data-anchor-id="a-shared-global-effort">A shared global effort</h2>
+<p>Observances like this connect our department to the wider work of the <a href="https://www.nsanigeria.ng">Nigerian Society of Anaesthetists</a> and the <a href="https://wfsahq.org">World Federation of Societies of Anaesthesiologists</a>, both of which promote safe anaesthesia access worldwide — a reminder that safe surgery and anaesthesia remain out of reach for many patients globally, and that local diligence contributes to a much larger effort.</p>
+<p>Thank you to every member of the peri-operative team who took part.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{of_anaesthesia_&amp;_intensive_care2026,
+  author = {of Anaesthesia \&amp; Intensive Care, Department},
+  title = {Marking {World} {Anaesthesia} {Day} at {AKTH}},
+  date = {2026-10-16},
+  url = {https://waga43.github.io/anaesthesia-akth/posts/world-anaesthesia-day-2026/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-of_anaesthesia_&amp;_intensive_care2026" class="csl-entry quarto-appendix-citeas">
+Anaesthesia &amp; Intensive Care, Department of. 2026. <span>“Marking
+World Anaesthesia Day at AKTH.”</span> October 16. <a href="https://waga43.github.io/anaesthesia-akth/posts/world-anaesthesia-day-2026/">https://waga43.github.io/anaesthesia-akth/posts/world-anaesthesia-day-2026/</a>.
+</div></div></section></div> ]]></description>
+  <category>events</category>
+  <category>patient-safety</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/posts/world-anaesthesia-day-2026/</guid>
+  <pubDate>Thu, 15 Oct 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/posts/world-anaesthesia-day-2026/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Welcome to the Department Blog</title>
+  <dc:creator>Department of Anaesthesia &amp; Intensive Care</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/posts/welcome-to-the-department/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Welcome to the new website for the <strong>Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital</strong>.</p>
+<p>This blog will carry:</p>
+<ul>
+<li>Departmental announcements and CPD opportunities</li>
+<li>Short clinical case discussions and teaching points</li>
+<li>Updates from Nigerian Society of Anaesthetists (NSA) and WFSA activities relevant to our members</li>
+<li>Notes from conferences, audits and quality-improvement projects</li>
+</ul>
+<section id="why-this-site-exists" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-site-exists">Why this site exists</h2>
+<p>Anaesthesia and intensive care are, by nature, quiet specialties — much of our best work happens behind the drapes or at the bedside, rarely seen by the wider hospital community. This site is a small window into that work: who we are, what we do, and how we continue to learn.</p>
+<p>We look forward to sharing more soon.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{of_anaesthesia_&amp;_intensive_care2026,
+  author = {of Anaesthesia \&amp; Intensive Care, Department},
+  title = {Welcome to the {Department} {Blog}},
+  date = {2026-08-10},
+  url = {https://waga43.github.io/anaesthesia-akth/posts/welcome-to-the-department/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-of_anaesthesia_&amp;_intensive_care2026" class="csl-entry quarto-appendix-citeas">
+Anaesthesia &amp; Intensive Care, Department of. 2026. <span>“Welcome to
+the Department Blog.”</span> August 10. <a href="https://waga43.github.io/anaesthesia-akth/posts/welcome-to-the-department/">https://waga43.github.io/anaesthesia-akth/posts/welcome-to-the-department/</a>.
+</div></div></section></div> ]]></description>
+  <category>announcements</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/posts/welcome-to-the-department/</guid>
+  <pubDate>Sun, 09 Aug 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/posts/welcome-to-the-department/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+</channel>
+</rss>

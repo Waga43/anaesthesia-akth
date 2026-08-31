@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2F9E6E"/>
+      <stop offset="100%" stop-color="#0B6E4F"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#g2)"/>
+  <circle cx="700" cy="100" r="70" fill="#FBFDFC" opacity="0.08"/>
+  <path d="M0 260 H150 L180 210 L210 320 L240 260 H310 L330 230 L350 290 L370 260 H800"
+        fill="none" stroke="#E7F3EC" stroke-width="4" opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="60" y="150" font-family="Georgia, serif" font-weight="600" font-size="36" fill="#FBFDFC">World Anaesthesia Day</text>
+  <text x="60" y="185" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#EAF6EF">16 October</text>
+</svg>

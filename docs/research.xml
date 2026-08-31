@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Anaesthesia &amp; Intensive Care · AKTH</title>
+<link>https://waga43.github.io/anaesthesia-akth/research.html</link>
+<atom:link href="https://waga43.github.io/anaesthesia-akth/research.xml" rel="self" type="application/rss+xml"/>
+<description>Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital — clinical care, education and research, affiliated with the Nigerian Society of Anaesthetists.</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sun, 19 Jul 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Getting Started with Point-of-Care Ultrasound for Regional Anaesthesia</title>
+  <dc:creator>Residents&#39; Academic Committee</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/manuscripts/poc-ultrasound-regional-guide/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Departmental guide</span></p>
+<p class="manuscript-byline">
+Prepared by the Residents’ Academic Committee
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> Ultrasound-guided regional anaesthesia has a real learning curve, most of it around probe handling and needle visualisation rather than anatomy alone. This orientation guide collects a few practical habits that help new operators progress safely and efficiently, for use alongside — not instead of — supervised, hands-on teaching.</p>
+</div>
+<p class="manuscript-keywords">
+KEYWORDS · REGIONAL ANAESTHESIA · ULTRASOUND · NERVE BLOCKS · TRAINING
+</p>
+<section id="probe-selection" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="probe-selection"><span class="header-section-number">1</span> Probe selection</h2>
+<ul>
+<li><strong>Linear (high-frequency) probes</strong> — best for superficial structures (nerves within ~4 cm), such as interscalene, supraclavicular, and forearm blocks. Better resolution, less penetration.</li>
+<li><strong>Curvilinear (low-frequency) probes</strong> — needed for deeper structures, such as the sciatic nerve at the gluteal level or in larger patients.</li>
+</ul>
+</section>
+<section id="needle-visualisation" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="needle-visualisation"><span class="header-section-number">2</span> Needle visualisation</h2>
+<ul>
+<li><strong>In-plane technique</strong> keeps the entire needle shaft visible along the probe’s long axis — generally the easier technique to learn first, as the needle tip position is continuously seen.</li>
+<li><strong>Out-of-plane technique</strong> shows the needle only as a bright dot crossing the beam — faster for some experienced operators, but easier to lose track of the tip as a beginner.</li>
+<li>Small, deliberate needle movements — rather than large sweeps — make it far easier to keep the tip in view.</li>
+</ul>
+</section>
+<section id="common-early-pitfalls" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="common-early-pitfalls"><span class="header-section-number">3</span> Common early pitfalls</h2>
+<ol type="1">
+<li><strong>Chasing the needle with the probe</strong> instead of keeping the probe still and adjusting the needle trajectory — this usually makes tip tracking worse, not better.</li>
+<li><strong>Mistaking the needle shadow for the tip</strong> — the brightest point on screen is not always the true tip; small in-and-out jiggles or a burst of local anaesthetic (hydrolocation) can help confirm true tip position.</li>
+<li><strong>Poor gel contact</strong> at the probe edges, distorting the image exactly where the needle is entering.</li>
+</ol>
+</section>
+<section id="grounding-this-in-the-wider-training-literature" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="grounding-this-in-the-wider-training-literature"><span class="header-section-number">4</span> Grounding this in the wider training literature</h2>
+<p>This orientation guide is meant as a first-days primer, not a substitute for a structured training pathway. The joint ASRA/ESRA committee recommendations describe a full residency- and fellowship-based training pathway for ultrasound-guided regional anaesthesia, including the core technical competencies and the didactic and experiential components expected before independent practice <span class="citation" data-cites="sites2009asraesra">(Sites et al. 2009)</span> — residents progressing beyond this primer should be familiar with that pathway.</p>
+</section>
+<section id="using-this-guide" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="using-this-guide"><span class="header-section-number">5</span> Using this guide</h2>
+<p>This is an orientation aid, not a replacement for supervised practice. Residents should complete ultrasound-guided blocks under direct consultant supervision until independently competent, per departmental training requirements.</p>
+<p><em>Have a guide, protocol summary, or teaching resource to contribute? Email the department to have it added here.</em></p>
+</section>
+<section id="references" class="level2" data-number="6">
+
+
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">6 References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-sites2009asraesra" class="csl-entry">
+Sites, Brian D., Vincent W. Chan, Joseph M. Neal, et al. 2009. <span>“The <span>American</span> <span>Society</span> of <span>Regional</span> <span>Anesthesia</span> and <span>Pain</span> <span>Medicine</span> and the <span>European</span> <span>Society</span> of <span>Regional</span> <span>Anaesthesia</span> and <span>Pain</span> <span>Therapy</span> Joint Committee Recommendations for Education and Training in Ultrasound-Guided Regional Anesthesia.”</span> <em>Regional Anesthesia and Pain Medicine</em> 34 (1): 40–46. <a href="https://doi.org/10.1097/AAP.0b013e3181926779">https://doi.org/10.1097/AAP.0b013e3181926779</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{academic_committee2026,
+  author = {Academic Committee, Residents’},
+  title = {Getting {Started} with {Point-of-Care} {Ultrasound} for
+    {Regional} {Anaesthesia}},
+  date = {2026-07-20},
+  url = {https://waga43.github.io/anaesthesia-akth/research/manuscripts/poc-ultrasound-regional-guide/},
+  langid = {en},
+  abstract = {Ultrasound-guided regional anaesthesia has a real learning
+    curve, most of it around probe handling and needle visualisation
+    rather than anatomy alone. This orientation guide collects a few
+    practical habits that help new operators progress safely and
+    efficiently, framed around the internationally recommended core
+    competencies for training in ultrasound-guided regional anaesthesia,
+    for use alongside — not instead of — supervised, hands-on teaching.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-academic_committee2026" class="csl-entry quarto-appendix-citeas">
+Academic Committee, Residents’. 2026. <span>“Getting Started with
+Point-of-Care Ultrasound for Regional Anaesthesia.”</span> July 20. <a href="https://waga43.github.io/anaesthesia-akth/research/manuscripts/poc-ultrasound-regional-guide/">https://waga43.github.io/anaesthesia-akth/research/manuscripts/poc-ultrasound-regional-guide/</a>.
+</div></div></section></div> ]]></description>
+  <category>guide</category>
+  <category>teaching</category>
+  <category>regional-anaesthesia</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/manuscripts/poc-ultrasound-regional-guide/</guid>
+  <pubDate>Sun, 19 Jul 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/manuscripts/poc-ultrasound-regional-guide/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>A Practical Guide to Theatre-to-ICU Obstetric Handover</title>
+  <dc:creator>Residents&#39; Academic Committee</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/manuscripts/obstetric-handover-guide/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Departmental guide</span></p>
+<p class="manuscript-byline">
+Prepared by the Residents’ Academic Committee
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> Handover between theatre and the intensive care unit is a recognised point of risk, particularly for obstetric patients who may have ongoing haemorrhage risk, pre-eclampsia, or cardiovascular instability. This guide sets out a structured, repeatable handover sequence intended for use by residents rotating between obstetric theatre and the ICU.</p>
+</div>
+<p class="manuscript-keywords">
+KEYWORDS · HANDOVER · OBSTETRIC ANAESTHESIA · PATIENT SAFETY · ICU ADMISSION
+</p>
+<section id="why-a-structured-handover-matters" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="why-a-structured-handover-matters"><span class="header-section-number">1</span> Why a structured handover matters</h2>
+<p>Verbal handovers that aren’t structured tend to omit items unpredictably — often exactly the detail that matters for the next few hours of care. A short, consistent structure reduces that risk without adding much time to a busy transfer. This mirrors the logic behind the WHO Surgical Safety Checklist, which was shown to reduce post-operative morbidity and mortality across a range of hospital settings when used consistently <span class="citation" data-cites="haynes2009checklist who2009safesurgery">(Haynes et al. 2009; Safe Surgery Saves Lives Study Group 2009)</span>.</p>
+</section>
+<section id="suggested-handover-structure" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="suggested-handover-structure"><span class="header-section-number">2</span> Suggested handover structure</h2>
+<ol type="1">
+<li><strong>Patient identification &amp; background</strong> — name, age, parity, key obstetric history, indication for surgery.</li>
+<li><strong>Procedure performed</strong> — type of anaesthesia, surgical procedure, any intra-operative complications.</li>
+<li><strong>Haemodynamic course</strong> — blood loss, fluids and blood products given, vasopressor use, any instability and how it was managed.</li>
+<li><strong>Airway and respiratory status</strong> — extubation status, oxygen requirement, any airway concerns for the ICU team to be aware of.</li>
+<li><strong>Analgesia plan</strong> — what has been given, what is prescribed next, and any regional technique in place (e.g.&nbsp;spinal opioid, wound catheter).</li>
+<li><strong>Outstanding concerns and thresholds for escalation</strong> — specifically what should prompt the ICU team to call anaesthesia back.</li>
+</ol>
+</section>
+<section id="using-this-guide" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="using-this-guide"><span class="header-section-number">3</span> Using this guide</h2>
+<p>This is a teaching resource for residents, not a substitute for local protocol. Departments should adapt the sequence to match their own documentation and handover tools, and residents should confirm current local practice with their supervising consultant.</p>
+<p><em>Have a guide, protocol summary, or teaching resource to contribute? Email the department to have it added here.</em></p>
+</section>
+<section id="references" class="level2" data-number="4">
+
+
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">4 References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-haynes2009checklist" class="csl-entry">
+Haynes, Alex B., Thomas G. Weiser, William R. Berry, et al. 2009. <span>“A Surgical Safety Checklist to Reduce Morbidity and Mortality in a Global Population.”</span> <em>New England Journal of Medicine</em> 360 (5): 491–99. <a href="https://doi.org/10.1056/NEJMsa0810119">https://doi.org/10.1056/NEJMsa0810119</a>.
+</div>
+<div id="ref-who2009safesurgery" class="csl-entry">
+Safe Surgery Saves Lives Study Group. 2009. <em>WHO Guidelines for Safe Surgery 2009: Safe Surgery Saves Lives</em>. World Health Organization. <a href="https://www.who.int/publications/i/item/9789241598552">https://www.who.int/publications/i/item/9789241598552</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{academic_committee2026,
+  author = {Academic Committee, Residents’},
+  title = {A {Practical} {Guide} to {Theatre-to-ICU} {Obstetric}
+    {Handover}},
+  date = {2026-06-02},
+  url = {https://waga43.github.io/anaesthesia-akth/research/manuscripts/obstetric-handover-guide/},
+  langid = {en},
+  abstract = {Handover between theatre and the intensive care unit is a
+    recognised point of risk, particularly for obstetric patients who
+    may have ongoing haemorrhage risk, pre-eclampsia, or cardiovascular
+    instability. This guide sets out a structured, repeatable handover
+    sequence intended for use by residents rotating between obstetric
+    theatre and the ICU, drawing on the wider patient-safety-checklist
+    literature.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-academic_committee2026" class="csl-entry quarto-appendix-citeas">
+Academic Committee, Residents’. 2026. <span>“A Practical Guide to
+Theatre-to-ICU Obstetric Handover.”</span> June 2. <a href="https://waga43.github.io/anaesthesia-akth/research/manuscripts/obstetric-handover-guide/">https://waga43.github.io/anaesthesia-akth/research/manuscripts/obstetric-handover-guide/</a>.
+</div></div></section></div> ]]></description>
+  <category>guide</category>
+  <category>teaching</category>
+  <category>obstetric-anaesthesia</category>
+  <category>intensive-care</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/manuscripts/obstetric-handover-guide/</guid>
+  <pubDate>Mon, 01 Jun 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/manuscripts/obstetric-handover-guide/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Recovery Profile and Discharge Following Day-Case Laparoscopic Gynaecological Surgeries: Sevoflurane vs Propofol</title>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <dc:creator>Mustapha Muhammad Miko</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Atiku M, Miko Abdullahi M, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A comparative study of recovery profile and time to discharge after day-case laparoscopic gynaecological surgery, comparing sevoflurane-based maintenance against total intravenous anaesthesia with propofol.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Atiku M, Miko Abdullahi M, et al.. Recovery Profile and Discharge Following Day-Case Laparoscopic Gynaecological Surgeries: Sevoflurane vs Propofol. <em>Ibom Medical Journal</em> 2026;19(2). DOI: <a href="https://doi.org/10.61386/imj.v19i2.1054" target="_blank">10.61386/imj.v19i2.1054</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mamuda2026,
+  author = {Mamuda, Atiku and Muhammad Miko, Mustapha},
+  title = {Recovery {Profile} and {Discharge} {Following} {Day-Case}
+    {Laparoscopic} {Gynaecological} {Surgeries:} {Sevoflurane} Vs
+    {Propofol}},
+  date = {2026-06-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mamuda2026" class="csl-entry quarto-appendix-citeas">
+Mamuda, Atiku, and Mustapha Muhammad Miko. 2026. <span>“Recovery Profile
+and Discharge Following Day-Case Laparoscopic Gynaecological Surgeries:
+Sevoflurane Vs Propofol.”</span> June 1. <a href="https://waga43.github.io/anaesthesia-akth/research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/">https://waga43.github.io/anaesthesia-akth/research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>day-case-anaesthesia</category>
+  <category>obstetric-anaesthesia</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/</guid>
+  <pubDate>Sun, 31 May 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Effectiveness of Out-of-Hospital Cardiopulmonary Resuscitation in Nigeria: An Evaluation of Key Components in the Chain of Survival</title>
+  <dc:creator>Dalhat Salahu</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/out-of-hospital-cpr-nigeria/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Salahu D, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A study evaluating how each link in the out-of-hospital ‘chain of survival’ — bystander recognition, CPR, defibrillation, and emergency transport — is actually functioning for cardiac arrest patients in the Nigerian context.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Salahu D, et al.. Effectiveness of Out-of-Hospital Cardiopulmonary Resuscitation in Nigeria: An Evaluation of Key Components in the Chain of Survival. <em>BMC Emergency Medicine</em> 2026;26:223. DOI: <a href="https://doi.org/10.1186/s12873-026-01640-6" target="_blank">10.1186/s12873-026-01640-6</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{salahu2026,
+  author = {Salahu, Dalhat},
+  title = {Effectiveness of {Out-of-Hospital} {Cardiopulmonary}
+    {Resuscitation} in {Nigeria:} {An} {Evaluation} of {Key}
+    {Components} in the {Chain} of {Survival}},
+  date = {2026-03-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/out-of-hospital-cpr-nigeria/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-salahu2026" class="csl-entry quarto-appendix-citeas">
+Salahu, Dalhat. 2026. <span>“Effectiveness of Out-of-Hospital
+Cardiopulmonary Resuscitation in Nigeria: An Evaluation of Key
+Components in the Chain of Survival.”</span> March 1. <a href="https://waga43.github.io/anaesthesia-akth/research/out-of-hospital-cpr-nigeria/">https://waga43.github.io/anaesthesia-akth/research/out-of-hospital-cpr-nigeria/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>resuscitation</category>
+  <category>global-health</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/out-of-hospital-cpr-nigeria/</guid>
+  <pubDate>Sat, 28 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/out-of-hospital-cpr-nigeria/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Underlying Medical Conditions Identified in Patients with In-Hospital and Out-of-Hospital Cardiac Arrest in Nigeria</title>
+  <dc:creator>Dalhat Salahu</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/cardiac-arrest-underlying-conditions-nigeria/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Salahu D, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A study identifying the underlying medical conditions most frequently found in patients who suffer cardiac arrest, comparing those arresting inside versus outside hospital in the Nigerian setting.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Salahu D, et al.. Underlying Medical Conditions Identified in Patients with In-Hospital and Out-of-Hospital Cardiac Arrest in Nigeria. <em>Nigerian Journal of Clinical Practice</em> 2026;29(2):160–166. DOI: <a href="https://doi.org/10.4103/njcp.njcp_529_24" target="_blank">10.4103/njcp.njcp_529_24</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{salahu2026,
+  author = {Salahu, Dalhat},
+  title = {Underlying {Medical} {Conditions} {Identified} in {Patients}
+    with {In-Hospital} and {Out-of-Hospital} {Cardiac} {Arrest} in
+    {Nigeria}},
+  date = {2026-02-15},
+  url = {https://waga43.github.io/anaesthesia-akth/research/cardiac-arrest-underlying-conditions-nigeria/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-salahu2026" class="csl-entry quarto-appendix-citeas">
+Salahu, Dalhat. 2026. <span>“Underlying Medical Conditions Identified in
+Patients with In-Hospital and Out-of-Hospital Cardiac Arrest in
+Nigeria.”</span> February 15. <a href="https://waga43.github.io/anaesthesia-akth/research/cardiac-arrest-underlying-conditions-nigeria/">https://waga43.github.io/anaesthesia-akth/research/cardiac-arrest-underlying-conditions-nigeria/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>resuscitation</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/cardiac-arrest-underlying-conditions-nigeria/</guid>
+  <pubDate>Sat, 14 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/cardiac-arrest-underlying-conditions-nigeria/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Setting Priorities for African Postoperative Pain Research Through an International Delphi Process</title>
+  <dc:creator>Alfa Mikailu</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/postoperative-pain-research-priorities-delphi/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Mikailu AA, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> An international Delphi consensus exercise, gathering structured expert input over multiple rounds, to identify and rank the postoperative pain research questions considered most important for the African context.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Mikailu AA, et al.. Setting Priorities for African Postoperative Pain Research Through an International Delphi Process. <em>Anesthesia &amp; Analgesia</em> 2025;141(6):1267–1274. DOI: <a href="https://doi.org/10.1213/ANE.0000000000007689" target="_blank">10.1213/ANE.0000000000007689</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mikailu2025,
+  author = {Mikailu, Alfa},
+  title = {Setting {Priorities} for {African} {Postoperative} {Pain}
+    {Research} {Through} an {International} {Delphi} {Process}},
+  date = {2025-12-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/postoperative-pain-research-priorities-delphi/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mikailu2025" class="csl-entry quarto-appendix-citeas">
+Mikailu, Alfa. 2025. <span>“Setting Priorities for African Postoperative
+Pain Research Through an International Delphi Process.”</span> December
+1. <a href="https://waga43.github.io/anaesthesia-akth/research/postoperative-pain-research-priorities-delphi/">https://waga43.github.io/anaesthesia-akth/research/postoperative-pain-research-priorities-delphi/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>pain-management</category>
+  <category>global-health</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/postoperative-pain-research-priorities-delphi/</guid>
+  <pubDate>Sun, 30 Nov 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/postoperative-pain-research-priorities-delphi/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Graded Epidural Anaesthesia for Abdominal Hysterectomy in an Adult with Congenital Heart Disease: A Case Report</title>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <dc:creator>Dalhat Salahu</dc:creator>
+  <dc:creator>Mustapha Muhammad Miko</dc:creator>
+  <dc:creator>Alhassan Muhammad Datti</dc:creator>
+  <dc:creator>Zinnat Alhassan</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/graded-epidural-hysterectomy-congenital-heart-disease/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Atiku M, Salahu D, Miko M. Abdullahi, Datti Mohammed A, Alhassan Z, Aminu AB
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A case report describing the anaesthetic management of an abdominal hysterectomy in an adult patient with congenital heart disease, using a graded (incremental) epidural technique to maintain cardiovascular stability.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Atiku M, Salahu D, Miko M. Abdullahi, Datti Mohammed A, Alhassan Z, Aminu AB. Graded Epidural Anaesthesia for Abdominal Hysterectomy in an Adult with Congenital Heart Disease: A Case Report. <em>Nigerian Journal of Anaesthesia</em> 2025;2(2):114–116. DOI: <a href="https://doi.org/10.82223/nja.vol2no2.49" target="_blank">10.82223/nja.vol2no2.49</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mamuda2025,
+  author = {Mamuda, Atiku and Salahu, Dalhat and Muhammad Miko, Mustapha
+    and Muhammad Datti, Alhassan and Alhassan, Zinnat},
+  title = {Graded {Epidural} {Anaesthesia} for {Abdominal}
+    {Hysterectomy} in an {Adult} with {Congenital} {Heart} {Disease:}
+    {A} {Case} {Report}},
+  date = {2025-06-16},
+  url = {https://waga43.github.io/anaesthesia-akth/research/graded-epidural-hysterectomy-congenital-heart-disease/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mamuda2025" class="csl-entry quarto-appendix-citeas">
+Mamuda, Atiku, Dalhat Salahu, Mustapha Muhammad Miko, Alhassan Muhammad
+Datti, and Zinnat Alhassan. 2025. <span>“Graded Epidural Anaesthesia for
+Abdominal Hysterectomy in an Adult with Congenital Heart Disease: A Case
+Report.”</span> June 16. <a href="https://waga43.github.io/anaesthesia-akth/research/graded-epidural-hysterectomy-congenital-heart-disease/">https://waga43.github.io/anaesthesia-akth/research/graded-epidural-hysterectomy-congenital-heart-disease/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>cardiac-anaesthesia</category>
+  <category>regional-anaesthesia</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/graded-epidural-hysterectomy-congenital-heart-disease/</guid>
+  <pubDate>Sun, 15 Jun 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/graded-epidural-hysterectomy-congenital-heart-disease/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Burnout Among Anaesthesia Providers in Sub-Saharan Africa: A Scoping Review</title>
+  <dc:creator>Zinnat Alhassan</dc:creator>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <dc:creator>Dalhat Salahu</dc:creator>
+  <dc:creator>Mustapha Muhammad Miko</dc:creator>
+  <dc:creator>Alhassan Muhammad Datti</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/burnout-anaesthesia-providers-ssa/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Alhassan Z, Atiku M, Salahu D, Miko Abdullahi M, Datti Mohammad A
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A scoping review surveying the existing literature on burnout among anaesthesia providers in Sub-Saharan Africa, mapping what has been studied so far and where the evidence gaps remain.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Alhassan Z, Atiku M, Salahu D, Miko Abdullahi M, Datti Mohammad A. Burnout Among Anaesthesia Providers in Sub-Saharan Africa: A Scoping Review. <em>Nigerian Journal of Anaesthesia</em> 2025;2(2):77–86. DOI: <a href="https://doi.org/10.82223/nja.vol2no2.50" target="_blank">10.82223/nja.vol2no2.50</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{alhassan2025,
+  author = {Alhassan, Zinnat and Mamuda, Atiku and Salahu, Dalhat and
+    Muhammad Miko, Mustapha and Muhammad Datti, Alhassan},
+  title = {Burnout {Among} {Anaesthesia} {Providers} in {Sub-Saharan}
+    {Africa:} {A} {Scoping} {Review}},
+  date = {2025-06-15},
+  url = {https://waga43.github.io/anaesthesia-akth/research/burnout-anaesthesia-providers-ssa/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-alhassan2025" class="csl-entry quarto-appendix-citeas">
+Alhassan, Zinnat, Atiku Mamuda, Dalhat Salahu, Mustapha Muhammad Miko,
+and Alhassan Muhammad Datti. 2025. <span>“Burnout Among Anaesthesia
+Providers in Sub-Saharan Africa: A Scoping Review.”</span> June 15. <a href="https://waga43.github.io/anaesthesia-akth/research/burnout-anaesthesia-providers-ssa/">https://waga43.github.io/anaesthesia-akth/research/burnout-anaesthesia-providers-ssa/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>workforce-wellbeing</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/burnout-anaesthesia-providers-ssa/</guid>
+  <pubDate>Sat, 14 Jun 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/burnout-anaesthesia-providers-ssa/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>The African Critical Illness Outcomes Study (ACIOS): A Point Prevalence Study of Critical Illness in 22 Nations in Africa</title>
+  <dc:creator>Zinnat Alhassan</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/acios-critical-illness-africa/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+The African Critical Illness Outcomes Study (ACIOS) Investigators
+</p>
+<p class="manuscript-affiliation">
+Multi-country collaborative study; department member(s) listed among the named investigators — see the note below
+</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>This is a very large multi-country collaborative study. Dr.&nbsp;Zinnat Alhassan is listed among the named ACIOS Investigators; the study was not authored solely by department members.</p>
+</div>
+</div>
+</div>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A large, international, prospective point-prevalence study examining how common critical illness is across acute hospitals in 22 African nations, and what happens to those patients in the days that follow, as part of a wider push for better African critical-care data.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> The African Critical Illness Outcomes Study (ACIOS) Investigators. The African Critical Illness Outcomes Study (ACIOS): A Point Prevalence Study of Critical Illness in 22 Nations in Africa. <em>The Lancet</em> 2025;405(10480):715–724. DOI: <a href="https://doi.org/10.1016/S0140-6736(24)02846-0" target="_blank">10.1016/S0140-6736(24)02846-0</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{alhassan2025,
+  author = {Alhassan, Zinnat},
+  title = {The {African} {Critical} {Illness} {Outcomes} {Study}
+    {(ACIOS):} {A} {Point} {Prevalence} {Study} of {Critical} {Illness}
+    in 22 {Nations} in {Africa}},
+  date = {2025-03-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/acios-critical-illness-africa/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-alhassan2025" class="csl-entry quarto-appendix-citeas">
+Alhassan, Zinnat. 2025. <span>“The African Critical Illness Outcomes
+Study (ACIOS): A Point Prevalence Study of Critical Illness in 22
+Nations in Africa.”</span> March 1. <a href="https://waga43.github.io/anaesthesia-akth/research/acios-critical-illness-africa/">https://waga43.github.io/anaesthesia-akth/research/acios-critical-illness-africa/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>intensive-care</category>
+  <category>global-health</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/acios-critical-illness-africa/</guid>
+  <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/acios-critical-illness-africa/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Difficult Airway Management in a Neonate with Giant Sublingual Cyst: A Case Report</title>
+  <dc:creator>Dalhat Salahu</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/difficult-airway-neonate-sublingual-cyst/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Salahu D, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A case report describing the anaesthetic and airway management approach taken for a neonate presenting with a giant sublingual cyst — an anatomically difficult airway in one of the most vulnerable patient groups.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Salahu D, et al.. Difficult Airway Management in a Neonate with Giant Sublingual Cyst: A Case Report. <em>Nigerian Journal of Anaesthesia</em> 2025;2(1):53–56. DOI: <a href="https://doi.org/10.82223/nja.vol2no1.35" target="_blank">10.82223/nja.vol2no1.35</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{salahu2025,
+  author = {Salahu, Dalhat},
+  title = {Difficult {Airway} {Management} in a {Neonate} with {Giant}
+    {Sublingual} {Cyst:} {A} {Case} {Report}},
+  date = {2025-02-15},
+  url = {https://waga43.github.io/anaesthesia-akth/research/difficult-airway-neonate-sublingual-cyst/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-salahu2025" class="csl-entry quarto-appendix-citeas">
+Salahu, Dalhat. 2025. <span>“Difficult Airway Management in a Neonate
+with Giant Sublingual Cyst: A Case Report.”</span> February 15. <a href="https://waga43.github.io/anaesthesia-akth/research/difficult-airway-neonate-sublingual-cyst/">https://waga43.github.io/anaesthesia-akth/research/difficult-airway-neonate-sublingual-cyst/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>airway-management</category>
+  <category>paediatric-anaesthesia</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/difficult-airway-neonate-sublingual-cyst/</guid>
+  <pubDate>Fri, 14 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/difficult-airway-neonate-sublingual-cyst/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>A Comparison of Fascia Iliaca Compartment Block with Intravenous Analgesia to Improve Pain Control in Patients with Femoral Fracture</title>
+  <dc:creator>Dalhat Salahu</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/fascia-iliaca-block-femoral-fracture/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Salahu D, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A comparative study evaluating whether an ultrasound-guided fascia iliaca compartment block gives better pain control than standard intravenous analgesia alone for patients with a fractured femur.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Salahu D, et al.. A Comparison of Fascia Iliaca Compartment Block with Intravenous Analgesia to Improve Pain Control in Patients with Femoral Fracture. <em>Journal of the West African College of Surgeons</em> 2024;14(3):255–261. DOI: <a href="https://doi.org/10.4103/jwas.jwas_66_23" target="_blank">10.4103/jwas.jwas_66_23</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{salahu2024,
+  author = {Salahu, Dalhat},
+  title = {A {Comparison} of {Fascia} {Iliaca} {Compartment} {Block}
+    with {Intravenous} {Analgesia} to {Improve} {Pain} {Control} in
+    {Patients} with {Femoral} {Fracture}},
+  date = {2024-07-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/fascia-iliaca-block-femoral-fracture/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-salahu2024" class="csl-entry quarto-appendix-citeas">
+Salahu, Dalhat. 2024. <span>“A Comparison of Fascia Iliaca Compartment
+Block with Intravenous Analgesia to Improve Pain Control in Patients
+with Femoral Fracture.”</span> July 1. <a href="https://waga43.github.io/anaesthesia-akth/research/fascia-iliaca-block-femoral-fracture/">https://waga43.github.io/anaesthesia-akth/research/fascia-iliaca-block-femoral-fracture/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>regional-anaesthesia</category>
+  <category>pain-management</category>
+  <category>trauma</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/fascia-iliaca-block-femoral-fracture/</guid>
+  <pubDate>Sun, 30 Jun 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/fascia-iliaca-block-femoral-fracture/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Physicochemical Stability of Ketamine After Reconstitution for Injection: A Scoping Review</title>
+  <dc:creator>Dalhat Salahu</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/ketamine-stability-after-reconstitution/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Salahu D, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A scoping review of the published evidence on the physicochemical stability of ketamine once it has been reconstituted for injection — a practical safety question wherever pre-drawn or stored ketamine solutions are used.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Salahu D, et al.. Physicochemical Stability of Ketamine After Reconstitution for Injection: A Scoping Review. <em>Anesthesia &amp; Analgesia</em> 2024;138(5):e29–e31. DOI: <a href="https://doi.org/10.1213/ANE.0000000000006956" target="_blank">10.1213/ANE.0000000000006956</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{salahu2024,
+  author = {Salahu, Dalhat},
+  title = {Physicochemical {Stability} of {Ketamine} {After}
+    {Reconstitution} for {Injection:} {A} {Scoping} {Review}},
+  date = {2024-05-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/ketamine-stability-after-reconstitution/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-salahu2024" class="csl-entry quarto-appendix-citeas">
+Salahu, Dalhat. 2024. <span>“Physicochemical Stability of Ketamine After
+Reconstitution for Injection: A Scoping Review.”</span> May 1. <a href="https://waga43.github.io/anaesthesia-akth/research/ketamine-stability-after-reconstitution/">https://waga43.github.io/anaesthesia-akth/research/ketamine-stability-after-reconstitution/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>pharmacology</category>
+  <category>patient-safety</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/ketamine-stability-after-reconstitution/</guid>
+  <pubDate>Tue, 30 Apr 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/ketamine-stability-after-reconstitution/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Outcomes After Surgery for Children in Africa (ASOS-Paeds): A 14-Day Prospective Observational Cohort Study</title>
+  <dc:creator>Alhassan Muhammad Datti</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/asos-paeds-outcomes-children-africa/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+ASOS-Paeds Investigators
+</p>
+<p class="manuscript-affiliation">
+Multi-country collaborative study; department member(s) listed among the named investigators — see the note below
+</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>This is a very large multi-country collaborative study. Prof.&nbsp;Alhassan Muhammad Datti is associated with the study per its OpenAlex indexing; the study was not authored solely by department members.</p>
+</div>
+</div>
+</div>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A large, international, 14-day prospective observational cohort study describing peri-operative complications and mortality in children undergoing surgery across African hospitals, extending the earlier ASOS adult study to the paediatric population.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> ASOS-Paeds Investigators. Outcomes After Surgery for Children in Africa (ASOS-Paeds): A 14-Day Prospective Observational Cohort Study. <em>The Lancet</em> 2024;403(10435):1482–1492. DOI: <a href="https://doi.org/10.1016/S0140-6736(24)00103-X" target="_blank">10.1016/S0140-6736(24)00103-X</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{muhammad_datti2024,
+  author = {Muhammad Datti, Alhassan},
+  title = {Outcomes {After} {Surgery} for {Children} in {Africa}
+    {(ASOS-Paeds):} {A} {14-Day} {Prospective} {Observational} {Cohort}
+    {Study}},
+  date = {2024-04-13},
+  url = {https://waga43.github.io/anaesthesia-akth/research/asos-paeds-outcomes-children-africa/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-muhammad_datti2024" class="csl-entry quarto-appendix-citeas">
+Muhammad Datti, Alhassan. 2024. <span>“Outcomes After Surgery for
+Children in Africa (ASOS-Paeds): A 14-Day Prospective Observational
+Cohort Study.”</span> April 13. <a href="https://waga43.github.io/anaesthesia-akth/research/asos-paeds-outcomes-children-africa/">https://waga43.github.io/anaesthesia-akth/research/asos-paeds-outcomes-children-africa/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>paediatric-anaesthesia</category>
+  <category>global-health</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/asos-paeds-outcomes-children-africa/</guid>
+  <pubDate>Fri, 12 Apr 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/asos-paeds-outcomes-children-africa/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Airway Management During Diagnostic Laparoscopic Surgery: A Comparison of I-Gel and Proseal Laryngeal Mask Airway</title>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <dc:creator>Mustapha Muhammad Miko</dc:creator>
+  <dc:creator>Alhassan Muhammad Datti</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/airway-management-laparoscopic-igel-proseal/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Atiku M, Miko Abdullahi M, Mohammed AD, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A comparative study of the I-Gel and ProSeal laryngeal mask airway — two supraglottic airway devices — for airway management during diagnostic laparoscopic procedures.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Atiku M, Miko Abdullahi M, Mohammed AD, et al.. Airway Management During Diagnostic Laparoscopic Surgery: A Comparison of I-Gel and Proseal Laryngeal Mask Airway. <em>Journal of the West African College of Surgeons</em> 2023;13(4):34–39. DOI: <a href="https://doi.org/10.4103/jwas.jwas_15_23" target="_blank">10.4103/jwas.jwas_15_23</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mamuda2023,
+  author = {Mamuda, Atiku and Muhammad Miko, Mustapha and Muhammad
+    Datti, Alhassan},
+  title = {Airway {Management} {During} {Diagnostic} {Laparoscopic}
+    {Surgery:} {A} {Comparison} of {I-Gel} and {Proseal} {Laryngeal}
+    {Mask} {Airway}},
+  date = {2023-10-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/airway-management-laparoscopic-igel-proseal/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mamuda2023" class="csl-entry quarto-appendix-citeas">
+Mamuda, Atiku, Mustapha Muhammad Miko, and Alhassan Muhammad Datti.
+2023. <span>“Airway Management During Diagnostic Laparoscopic Surgery: A
+Comparison of I-Gel and Proseal Laryngeal Mask Airway.”</span> October
+1. <a href="https://waga43.github.io/anaesthesia-akth/research/airway-management-laparoscopic-igel-proseal/">https://waga43.github.io/anaesthesia-akth/research/airway-management-laparoscopic-igel-proseal/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>airway-management</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/airway-management-laparoscopic-igel-proseal/</guid>
+  <pubDate>Sat, 30 Sep 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/airway-management-laparoscopic-igel-proseal/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Minimizing Adverse Effects of Subjective Measurement of Endotracheal Tube Cuff Pressure: Can the Use of the Loss of Resistance Technique Help?</title>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/ett-cuff-pressure-loss-of-resistance/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Atiku M, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A study examining whether the loss-of-resistance technique offers a more reliable way to judge endotracheal tube cuff pressure than the commonly used subjective ‘feel’ method, relevant wherever manometers are not routinely available.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Atiku M, et al.. Minimizing Adverse Effects of Subjective Measurement of Endotracheal Tube Cuff Pressure: Can the Use of the Loss of Resistance Technique Help?. <em>Ibom Medical Journal</em> 2023;16(1). DOI: <a href="https://doi.org/10.61386/imj.v16i1.295" target="_blank">10.61386/imj.v16i1.295</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mamuda2023,
+  author = {Mamuda, Atiku},
+  title = {Minimizing {Adverse} {Effects} of {Subjective} {Measurement}
+    of {Endotracheal} {Tube} {Cuff} {Pressure:} {Can} the {Use} of the
+    {Loss} of {Resistance} {Technique} {Help?}},
+  date = {2023-03-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/ett-cuff-pressure-loss-of-resistance/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mamuda2023" class="csl-entry quarto-appendix-citeas">
+Mamuda, Atiku. 2023. <span>“Minimizing Adverse Effects of Subjective
+Measurement of Endotracheal Tube Cuff Pressure: Can the Use of the Loss
+of Resistance Technique Help?”</span> March 1. <a href="https://waga43.github.io/anaesthesia-akth/research/ett-cuff-pressure-loss-of-resistance/">https://waga43.github.io/anaesthesia-akth/research/ett-cuff-pressure-loss-of-resistance/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>airway-management</category>
+  <category>patient-safety</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/ett-cuff-pressure-loss-of-resistance/</guid>
+  <pubDate>Tue, 28 Feb 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/ett-cuff-pressure-loss-of-resistance/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>A Comparative Study Between Propofol-Fentanyl Versus Propofol-Suxamethonium for Ease of Endotracheal Intubation in Children</title>
+  <dc:creator>Alfa Mikailu</dc:creator>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <dc:creator>Dalhat Salahu</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Mikailu A, Atiku M, Salahu D, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A comparative study of propofol-fentanyl versus propofol-suxamethonium as induction combinations, assessing which provides easier conditions for endotracheal intubation in children.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Mikailu A, Atiku M, Salahu D, et al.. A Comparative Study Between Propofol-Fentanyl Versus Propofol-Suxamethonium for Ease of Endotracheal Intubation in Children. <em>Journal of the West African College of Surgeons</em> 2023;13(1):55–59. DOI: <a href="https://doi.org/10.4103/jwas.jwas_229_22" target="_blank">10.4103/jwas.jwas_229_22</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mikailu2023,
+  author = {Mikailu, Alfa and Mamuda, Atiku and Salahu, Dalhat},
+  title = {A {Comparative} {Study} {Between} {Propofol-Fentanyl}
+    {Versus} {Propofol-Suxamethonium} for {Ease} of {Endotracheal}
+    {Intubation} in {Children}},
+  date = {2023-01-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mikailu2023" class="csl-entry quarto-appendix-citeas">
+Mikailu, Alfa, Atiku Mamuda, and Dalhat Salahu. 2023. <span>“A
+Comparative Study Between Propofol-Fentanyl Versus
+Propofol-Suxamethonium for Ease of Endotracheal Intubation in
+Children.”</span> January 1. <a href="https://waga43.github.io/anaesthesia-akth/research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/">https://waga43.github.io/anaesthesia-akth/research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>paediatric-anaesthesia</category>
+  <category>airway-management</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/</guid>
+  <pubDate>Sat, 31 Dec 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Intraoperative Cardiac Arrest: A Rare Case of Anomalous Coronary Arteries in a Previously Apparently Healthy Young Man</title>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/intraoperative-cardiac-arrest-anomalous-coronary/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Atiku M, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A case report of an intraoperative cardiac arrest in a young man with no prior cardiac history, subsequently found to have anomalous coronary arteries — a reminder of hidden cardiac risk even in apparently healthy surgical patients.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Atiku M, et al.. Intraoperative Cardiac Arrest: A Rare Case of Anomalous Coronary Arteries in a Previously Apparently Healthy Young Man. <em>Annals of African Surgery</em> 2022;19(4):216–220. DOI: <a href="https://doi.org/10.4314/aas.v19i4.10" target="_blank">10.4314/aas.v19i4.10</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mamuda2022,
+  author = {Mamuda, Atiku},
+  title = {Intraoperative {Cardiac} {Arrest:} {A} {Rare} {Case} of
+    {Anomalous} {Coronary} {Arteries} in a {Previously} {Apparently}
+    {Healthy} {Young} {Man}},
+  date = {2022-10-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/intraoperative-cardiac-arrest-anomalous-coronary/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mamuda2022" class="csl-entry quarto-appendix-citeas">
+Mamuda, Atiku. 2022. <span>“Intraoperative Cardiac Arrest: A Rare Case
+of Anomalous Coronary Arteries in a Previously Apparently Healthy Young
+Man.”</span> October 1. <a href="https://waga43.github.io/anaesthesia-akth/research/intraoperative-cardiac-arrest-anomalous-coronary/">https://waga43.github.io/anaesthesia-akth/research/intraoperative-cardiac-arrest-anomalous-coronary/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>cardiac-anaesthesia</category>
+  <category>patient-safety</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/intraoperative-cardiac-arrest-anomalous-coronary/</guid>
+  <pubDate>Fri, 30 Sep 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/intraoperative-cardiac-arrest-anomalous-coronary/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Subarachnoid Lavage Following Inadvertent Intrathecal Injection of Tranexamic Acid</title>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <dc:creator>Mustapha Muhammad Miko</dc:creator>
+  <dc:creator>Alhassan Muhammad Datti</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/subarachnoid-lavage-intrathecal-txa/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Atiku M, Miko Abdullahi M, Alhassan DM, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A case report describing subarachnoid lavage as an emergency response to inadvertent intrathecal injection of tranexamic acid — a rare but life-threatening medication error — and the reasoning behind the intervention chosen.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Atiku M, Miko Abdullahi M, Alhassan DM, et al.. Subarachnoid Lavage Following Inadvertent Intrathecal Injection of Tranexamic Acid. <em>Ibom Medical Journal</em> 2022;15(3). DOI: <a href="https://doi.org/10.61386/imj.v15i3.277" target="_blank">10.61386/imj.v15i3.277</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mamuda2022,
+  author = {Mamuda, Atiku and Muhammad Miko, Mustapha and Muhammad
+    Datti, Alhassan},
+  title = {Subarachnoid {Lavage} {Following} {Inadvertent} {Intrathecal}
+    {Injection} of {Tranexamic} {Acid}},
+  date = {2022-09-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/subarachnoid-lavage-intrathecal-txa/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mamuda2022" class="csl-entry quarto-appendix-citeas">
+Mamuda, Atiku, Mustapha Muhammad Miko, and Alhassan Muhammad Datti.
+2022. <span>“Subarachnoid Lavage Following Inadvertent Intrathecal
+Injection of Tranexamic Acid.”</span> September 1. <a href="https://waga43.github.io/anaesthesia-akth/research/subarachnoid-lavage-intrathecal-txa/">https://waga43.github.io/anaesthesia-akth/research/subarachnoid-lavage-intrathecal-txa/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>patient-safety</category>
+  <category>regional-anaesthesia</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/subarachnoid-lavage-intrathecal-txa/</guid>
+  <pubDate>Wed, 31 Aug 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/subarachnoid-lavage-intrathecal-txa/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Spontaneous Groin Enterocutaneous Fistula Following Neglected Inguinal Hernia in a 3-Month Infant</title>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/groin-enterocutaneous-fistula-infant/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Atiku M, et al.
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> A case report describing a spontaneous enterocutaneous fistula in the groin of a 3-month-old infant, arising as a rare complication of a neglected inguinal hernia, with anaesthetic and peri-operative considerations for very young infants.</p>
+</div>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study connected to this department, not a reproduction of the published article. For full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Atiku M, et al.. Spontaneous Groin Enterocutaneous Fistula Following Neglected Inguinal Hernia in a 3-Month Infant. <em>African Journal of Paediatric Surgery</em> 2022;19(3):176–178. DOI: <a href="https://doi.org/10.4103/ajps.AJPS_183_20" target="_blank">10.4103/ajps.AJPS_183_20</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mamuda2022,
+  author = {Mamuda, Atiku},
+  title = {Spontaneous {Groin} {Enterocutaneous} {Fistula} {Following}
+    {Neglected} {Inguinal} {Hernia} in a {3-Month} {Infant}},
+  date = {2022-07-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/groin-enterocutaneous-fistula-infant/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mamuda2022" class="csl-entry quarto-appendix-citeas">
+Mamuda, Atiku. 2022. <span>“Spontaneous Groin Enterocutaneous Fistula
+Following Neglected Inguinal Hernia in a 3-Month Infant.”</span> July 1.
+<a href="https://waga43.github.io/anaesthesia-akth/research/groin-enterocutaneous-fistula-infant/">https://waga43.github.io/anaesthesia-akth/research/groin-enterocutaneous-fistula-infant/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>paediatric-anaesthesia</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/groin-enterocutaneous-fistula-infant/</guid>
+  <pubDate>Thu, 30 Jun 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/groin-enterocutaneous-fistula-infant/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Efficacy of Low-Dose Suxamethonium in Reducing Induction Dose of Propofol for Laryngeal Mask Airway Insertion in Nigerian Adults</title>
+  <dc:creator>Dalhat Salahu</dc:creator>
+  <dc:creator>Saheed Adesope</dc:creator>
+  <dc:creator>Alhassan Mohammed Datti</dc:creator>
+  <dc:creator>Mustapha Miko Abdullahi</dc:creator>
+  <dc:creator>Atiku Mamuda</dc:creator>
+  <dc:creator>Abdullahi Maryam Mohammed</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/research/suxamethonium-propofol-lma/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><span class="manuscript-type-badge">Published research · summary</span></p>
+<p class="manuscript-byline">
+Dalhat Salahu, Saheed Adesope, Alhassan Mohammed Datti, Mustapha Miko Abdullahi, Atiku Mamuda, Abdullahi Maryam Mohammed
+</p>
+<p class="manuscript-affiliation">
+Department of Anaesthesia, Aminu Kano Teaching Hospital, Kano, Nigeria
+</p>
+<div class="manuscript-abstract">
+<p><strong>Summary.</strong> Low-dose suxamethonium has a rapid onset and offset of action and reduces the incidence of coughing and gagging on airway instrumentation without producing full muscle paralysis. This study, conducted by the department, examined whether a low dose of suxamethonium could reduce the induction dose of propofol required for successful laryngeal mask airway (LMA) insertion in Nigerian adults — relevant to safer, more predictable induction in routine and resource-constrained theatre settings.</p>
+</div>
+<p class="manuscript-keywords">
+KEYWORDS · SUXAMETHONIUM · PROPOFOL · LARYNGEAL MASK AIRWAY · INDUCTION DOSE
+</p>
+<section id="about-this-entry" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-entry">About this entry</h2>
+<p>This page is a departmental summary of a peer-reviewed study by members of this department, not a reproduction of the published article. For the full methodology, results, and discussion, please consult the original publication.</p>
+<p><strong>Citation:</strong> Salahu D, Adesope S, Datti AM, Miko Abdullahi M, Mamuda A, Mohammed AM. Efficacy of low-dose suxamethonium in reducing induction dose of propofol for laryngeal mask airway insertion in Nigerian adults. <em>Niger J Med</em> 2021;30:413–8.</p>
+<p>Full text and citation details: <a href="https://www.ajol.info/index.php/njm/article/download/213323/201181" target="_blank">AJOL — Nigerian Journal of Medicine</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{salahu2021,
+  author = {Salahu, Dalhat and Adesope, Saheed and Mohammed Datti,
+    Alhassan and Miko Abdullahi, Mustapha and Mamuda, Atiku and Maryam
+    Mohammed, Abdullahi},
+  title = {Efficacy of {Low-Dose} {Suxamethonium} in {Reducing}
+    {Induction} {Dose} of {Propofol} for {Laryngeal} {Mask} {Airway}
+    {Insertion} in {Nigerian} {Adults}},
+  date = {2021-09-01},
+  url = {https://waga43.github.io/anaesthesia-akth/research/suxamethonium-propofol-lma/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-salahu2021" class="csl-entry quarto-appendix-citeas">
+Salahu, Dalhat, Saheed Adesope, Alhassan Mohammed Datti, Mustapha Miko
+Abdullahi, Atiku Mamuda, and Abdullahi Maryam Mohammed. 2021.
+<span>“Efficacy of Low-Dose Suxamethonium in Reducing Induction Dose of
+Propofol for Laryngeal Mask Airway Insertion in Nigerian Adults.”</span>
+September 1. <a href="https://waga43.github.io/anaesthesia-akth/research/suxamethonium-propofol-lma/">https://waga43.github.io/anaesthesia-akth/research/suxamethonium-propofol-lma/</a>.
+</div></div></section></div> ]]></description>
+  <category>research</category>
+  <category>obstetric-anaesthesia</category>
+  <category>airway-management</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/research/suxamethonium-propofol-lma/</guid>
+  <pubDate>Tue, 31 Aug 2021 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/research/suxamethonium-propofol-lma/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
+</channel>
+</rss>
