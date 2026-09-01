@@ -333,14 +333,14 @@
     "href": "posts/welcome-to-the-department/index.html#why-this-site-exists",
     "title": "Welcome to the Department Blog",
     "section": "Why this site exists",
-    "text": "Why this site exists\nAnaesthesia and intensive care are, by nature, quiet specialties — much of our best work happens behind the drapes or at the bedside, rarely seen by the wider hospital community. This site is a small window into that work: who we are, what we do, and how we continue to learn.\nWe look forward to sharing more soon."
+    "text": "Why this site exists\nAnaesthesia and intensive care are, by nature, quiet specialties — much of our best work happens behind the drapes or at the bedside, rarely seen by the wider hospital community. This site is a small window into that work: who we are, what we do, and how we continue to learn. In many ways, anaesthesiologists are the unsung heroes of the medical profession.\nWe look forward to sharing more soon."
   },
   {
     "objectID": "journals.html",
     "href": "journals.html",
     "title": "Journal Feeds",
     "section": "",
-    "text": "This page tracks recent articles from two journals relevant to our practice, refreshed automatically each time the site is rebuilt (items older than 90 days are dropped). Each entry links out to the original article on the publisher’s site — nothing here is reproduced in full.\n\nNJA — Nigerian Journal of Anaesthesia, the official journal of the Nigerian Society of Anaesthetists.\nAnesthesia-Analgesia — Anesthesia & Analgesia, the journal of the International Anesthesia Research Society (IARS).\n\nIf this list looks empty or stale, see fetch_feed.py and the “Journal Feeds” section of the project README — it explains how the feeds are fetched and what to check if a publisher’s feed URL has changed.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Published - Oldest\n      \n      \n        Published - Newest\n      \n      \n        Article Title\n      \n      \n        Authors\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nJournal\n\n\n\nPublished\n\n\n\nArticle Title\n\n\n\nAuthors\n\n\n\n\n\n\n\n\nNotice\n\n\nSep 1, 2026\n\n\nJournal feeds are not showing new items right now\n\n\nDepartment of Anaesthesia & Intensive Care\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "This page tracks recent articles from two journals relevant to our practice, refreshed automatically each time the site is rebuilt (items older than 90 days are dropped). Each entry links out to the original article on the publisher’s site — nothing here is reproduced in full.\n\nNJA — Nigerian Journal of Anaesthesia, the official journal of the Nigerian Society of Anaesthetists.\nAnesthesia-Analgesia — Anesthesia & Analgesia, the journal of the International Anesthesia Research Society (IARS).\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Published - Oldest\n      \n      \n        Published - Newest\n      \n      \n        Article Title\n      \n      \n        Authors\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nJournal\n\n\n\nPublished\n\n\n\nArticle Title\n\n\n\nAuthors\n\n\n\n\n\n\n\n\nNotice\n\n\nSep 1, 2026\n\n\nJournal feeds are not showing new items right now\n\n\nDepartment of Anaesthesia & Intensive Care\n\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "index.html",
@@ -768,5 +768,12 @@
     "title": "Dr. Zinnat Alhassan",
     "section": "Research",
     "text": "Research\nDr. Alhassan is a co-author, alongside departmental colleagues, of two 2025 publications in the Nigerian Journal of Anaesthesia:\n\nAlhassan Z, Atiku M, Salahu D, Miko Abdullahi M, Datti Mohammad A. Burnout among Anaesthesia Providers in Sub-Saharan Africa: A Scoping Review. Nigerian Journal of Anaesthesia, 2025;2(2):77–86. DOI: 10.82223/nja.vol2no2.50\n\n\nAtiku M, Salahu D, Miko M. Abdullahi, Datti Mohammed A, Alhassan Z, Aminu AB. Graded Epidural Anaesthesia for Abdominal Hysterectomy in an Adult with Congenital Heart Disease: A Case Report. Nigerian Journal of Anaesthesia, 2025;2(2):114–116. DOI: 10.82223/nja.vol2no2.49\n\nFull biography, qualifications, and areas of clinical interest to be added by the department."
+  },
+  {
+    "objectID": "team/dr-zinnat-alhassan/index.html#connect-with-me",
+    "href": "team/dr-zinnat-alhassan/index.html#connect-with-me",
+    "title": "Dr. Zinnat Alhassan",
+    "section": "Connect with me:",
+    "text": "Connect with me:"
   }
 ]
