@@ -725,7 +725,7 @@
     "href": "team/dr-alfa-mikailu/index.html#references",
     "title": "Dr. Alfa Mikailu",
     "section": "References",
-    "text": "References\n\nAbout the Journal — Nigerian Journal of Anaesthesia (NSA Executive Committee 2022–2024)\n\nFull biography, qualifications, and areas of clinical interest to be added by the department.\n{{&lt; about-links \"ai google-scholar color=blue size=2xl|Google Scholar:https://google.com\" \"ai orcid color=green size=xl|ORCID:https://orcid.org\" \"ai linkedin color=blue size=xl|LinkedIn:https://linkedin.com\" \"twitter|X (Formerly Twitter):https://twitter.com\" \"envelope:mailto:me@example.com\" &gt;}}"
+    "text": "References\n\nAbout the Journal — Nigerian Journal of Anaesthesia (NSA Executive Committee 2022–2024)\n\nFull biography, qualifications, and areas of clinical interest to be added by the department.\n{{&lt; about-links \"ai google-scholar color=blue size=2xl|Google Scholar\" \"https://google.com\" \"ai orcid color=green size=xl|ORCID\" \"https://orcid.org\" \"ai linkedin color=blue size=xl|LinkedIn\" \"https://linkedin.com\" \"twitter|X (Formerly Twitter)\" \"https://twitter.com\" \"envelop|Email\" \"mailto:me@example.com\" &gt;}}"
   },
   {
     "objectID": "team/dr-dalhat-salahu/index.html",
