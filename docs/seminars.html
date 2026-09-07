@@ -49,9 +49,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-0f05cba98e93abd5bfacabf37e46c573.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2691c93fa41bebfada94e58e5f5f9c4c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-a3da4790f9108db9ce255e89761a51e0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-2691c93fa41bebfada94e58e5f5f9c4c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0b299c51725b363a365e8d12d33b9e03.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-0a6f34ba6688d68f0d8f008a99b9d21c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-0b299c51725b363a365e8d12d33b9e03.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -81,7 +81,35 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-featured-post .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-featured-post'] = new List('listing-featured-post', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-posit-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -90,11 +118,11 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-posit-listing'] = new List('listing-posit-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -443,10 +471,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="YWlyd2F5LW1hbmFnZW1lbnQ=">airway-management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW50ZW5zaXZlLWNhcmU=">intensive-care <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGFpbi1tYW5hZ2VtZW50">pain-management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2VtaW5hcg==">seminar <span class="quarto-category-count">(3)</span></div><div class="category" data-category="dGVhY2hpbmc=">teaching <span class="quarto-category-count">(3)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
@@ -457,7 +484,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -470,38 +497,106 @@ window.Quarto = {
 
 
 <p>Our residents present regularly as part of the departmental seminar series and journal club. This page collects those presentations and related teaching resources. The three entries below are <strong>template examples</strong> — replace them with real seminars, presenter names, and slide files as they happen; see the note at the bottom of each entry for how.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-title" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-author" data-direction="asc">
-        Author
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
+<p class="posit-eyebrow">Featured</p>
+<div id="listing-featured-post" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="c2VtaW5hciUyQ2ludGVuc2l2ZS1jYXJlJTJDdGVhY2hpbmc=" data-listing-date-sort="1785366000000" data-listing-file-modified-sort="1787940208000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="quarto-post image-right" data-index="0" data-categories="c2VtaW5hciUyQ2ludGVuc2l2ZS1jYXJlJTJDdGVhY2hpbmc=" data-listing-date-sort="1785366000000" data-listing-file-modified-sort="1788718944327" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="thumbnail"><a href="./seminars/sepsis-bundle-seminar/index.html" class="no-external">
+
+<img loading="lazy" src="./seminars/sepsis-bundle-seminar/cover.svg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/sepsis-bundle-seminar/index.html" class="no-external">The Sepsis Bundle in the ICU: What the Evidence Says</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/sepsis-bundle-seminar/index.html" class="no-external">
+<p>A resident-led journal-club style seminar on early sepsis recognition and bundle compliance in critical care.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/sepsis-bundle-seminar/index.html" class="no-external">
+<div class="listing-date">
+30 July 2026
+</div>
+<div class="listing-author">
+Department of Anaesthesia &amp; Intensive Care
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p class="posit-eyebrow posit-eyebrow-list">All seminars &amp; resources</p>
+<!--
+  includes/posit-listing-shell-open.qmd
+
+  Reusable listing UI shell, styled after opensource.posit.co/blog: a
+  search box + checkbox topic filters + "Clear filters" on the left, a
+  sort control + results count + card list on the right. Paired with
+  includes/posit-listing-shell-close.qmd, with the page's Quarto listing
+  div (`::: {#your-listing-id} :::`) placed between the two.
+
+  HOW TO USE THIS IN A NEW LISTING PAGE:
+    1. In front matter, define a `listing:` block with:
+         filter-ui: false
+         sort-ui: false
+         categories: true
+       (this shell replaces Quarto's own filter/sort/category UI with
+       this one; leaving Quarto's own turned on too would fight over the
+       same cards' visibility — see posit-listing-filters.js's header
+       comment for why)
+    2. {{< include includes/posit-listing-shell-open.qmd >}}
+    3. ::: {#your-listing-id}
+       :::
+    4. {{< include includes/posit-listing-shell-close.qmd >}}
+
+  No JavaScript or CSS needs touching for a new listing page to get this
+  design — both are shared, loaded once per page, and derive everything
+  (topic names, counts, sorting) from the real rendered listing cards.
+-->
+<div class="posit-listing-shell">
+
+  <div class="posit-filter-rail">
+    <div class="posit-search-box">
+      <i class="bi bi-search"></i>
+      <input type="text" class="posit-search-input" placeholder="Search…" aria-label="Search this list">
+    </div>
+
+    <div class="posit-filter-group">
+      <div class="posit-filter-heading">
+        <span>Topics</span>
+      </div>
+      <div class="posit-topics-list">
+        <!-- populated by posit-listing-filters.js from each card's own data-categories -->
+      </div>
+    </div>
+
+    <button class="posit-clear-btn posit-clear-filters" type="button">Clear filters</button>
+  </div>
+
+  <div class="posit-listing-column">
+    <div class="posit-list-toolbar">
+      <span class="posit-results-count"></span>
+      <div class="posit-sort-control">
+        <label>Sort
+          <select class="posit-sort-select">
+            <option value="date-desc" selected="">Newest first</option>
+            <option value="date-asc">Oldest first</option>
+            <option value="title-asc">Title A–Z</option>
+            <option value="title-desc">Title Z–A</option>
+          </select>
+        </label>
+      </div>
+    </div>
+
+    <div class="posit-no-results" style="display:none;">
+      <p>Nothing matches your filters. <button class="posit-inline-link posit-no-results-clear" type="button">Clear filters</button></p>
+    </div>
+<div id="listing-posit-listing" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="c2VtaW5hciUyQ2ludGVuc2l2ZS1jYXJlJTJDdGVhY2hpbmc=" data-listing-date-sort="1785366000000" data-listing-file-modified-sort="1788718944327" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <div class="thumbnail"><a href="./seminars/sepsis-bundle-seminar/index.html" class="no-external">
 
 <img loading="lazy" src="./seminars/sepsis-bundle-seminar/cover.svg" class="thumbnail-image">
@@ -530,13 +625,13 @@ window.Quarto = {
 30 July 2026
 </div>
 <div class="listing-author">
-Anaesthesia Residency Programme
+Department of Anaesthesia &amp; Intensive Care
 </div>
 <div class="listing-reading-time">1 min</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="c2VtaW5hciUyQ2FpcndheS1tYW5hZ2VtZW50JTJDdGVhY2hpbmc=" data-listing-date-sort="1782342000000" data-listing-file-modified-sort="1787940202000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
+<div class="quarto-post image-right" data-index="1" data-categories="c2VtaW5hciUyQ2FpcndheS1tYW5hZ2VtZW50JTJDdGVhY2hpbmc=" data-listing-date-sort="1782342000000" data-listing-file-modified-sort="1788719021442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
 <div class="thumbnail"><a href="./seminars/difficult-airway-seminar/index.html" class="no-external">
 
 <img loading="lazy" src="./seminars/difficult-airway-seminar/cover.svg" class="thumbnail-image">
@@ -565,13 +660,13 @@ Anaesthesia Residency Programme
 25 June 2026
 </div>
 <div class="listing-author">
-Anaesthesia Residency Programme
+Department of Anaesthesia &amp; Intensive Care
 </div>
 <div class="listing-reading-time">1 min</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="c2VtaW5hciUyQ3BhaW4tbWFuYWdlbWVudCUyQ3RlYWNoaW5n" data-listing-date-sort="1778713200000" data-listing-file-modified-sort="1787940195000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
+<div class="quarto-post image-right" data-index="2" data-categories="c2VtaW5hciUyQ3BhaW4tbWFuYWdlbWVudCUyQ3RlYWNoaW5n" data-listing-date-sort="1778713200000" data-listing-file-modified-sort="1788718933100" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
 <div class="thumbnail"><a href="./seminars/pain-management-seminar/index.html" class="no-external">
 
 <img loading="lazy" src="./seminars/pain-management-seminar/cover.svg" class="thumbnail-image">
@@ -600,7 +695,7 @@ Anaesthesia Residency Programme
 14 May 2026
 </div>
 <div class="listing-author">
-Anaesthesia Residency Programme
+Department of Anaesthesia &amp; Intensive Care
 </div>
 <div class="listing-reading-time">1 min</div>
 </a>
@@ -608,7 +703,20 @@ Anaesthesia Residency Programme
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</div>
+<!--
+  includes/posit-listing-shell-close.qmd
+  Pairs with includes/posit-listing-shell-open.qmd — see that file for
+  the full usage pattern.
+-->
+  </div>
+</div>
+<script src="./styles/posit-listing-filters.js"></script>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -1041,13 +1149,13 @@ Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital, Kano
 © 2021–2026 Department of Anaesthesia &amp; Intensive Care, AKTH. All rights reserved.
 </p>
 <p class="footer-credit">
-<a href="https://waga43.github.io/weblog">This website is designed with ❤️ by EduTechTainMent
-</a></p><a href="https://waga43.github.io/weblog">
-</a></div><a href="https://waga43.github.io/weblog">   
-    </a><div class="nav-footer-center"><a href="https://waga43.github.io/weblog">
+<a href="https://waga43.github.io/weblog" target="_blank" rel="noopener">This website is designed with ❤️ by EduTechTainMent</a>
+</p>
+</div>   
+    <div class="nav-footer-center">
 <strong>Explore</strong>
-</a><p><a href="https://waga43.github.io/weblog">
-</a><a href="./index.html">Home</a>
+<p>
+<a href="./index.html">Home</a>
 </p>
 <p>
 <a href="./about.html">About the Department</a>
