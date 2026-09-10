@@ -204,16 +204,16 @@ Seminar slides
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{nura_yakasai2026,
-  author = {Nura Yakasai, Amina and Bello, Dr.},
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{amina_nura_yakasai2026,
+  author = {Amina Nura Yakasai, Dr. and Bello, Dr.},
   title = {Enhanced {Recovery} {After} {Surgery} {(ERAS)}},
   date = {2026-09-04},
   url = {https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-nura_yakasai2026" class="csl-entry quarto-appendix-citeas">
-Nura Yakasai, Amina, and Dr. Bello. 2026. <span>“Enhanced Recovery After
-Surgery (ERAS).”</span> September 4. <a href="https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/">https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/</a>.
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-amina_nura_yakasai2026" class="csl-entry quarto-appendix-citeas">
+Amina Nura Yakasai, Dr., and Dr. Bello. 2026. <span>“Enhanced Recovery
+After Surgery (ERAS).”</span> September 4. <a href="https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/">https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/</a>.
 </div></div></section></div> ]]></description>
   <category>seminar</category>
   <category>anaesthesia</category>
@@ -223,9 +223,9 @@ Surgery (ERAS).”</span> September 4. <a href="https://waga43.github.io/anaesth
   <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>The Sepsis Bundle in the ICU: What the Evidence Says</title>
-  <dc:creator>Anaesthesia Residency Programme</dc:creator>
-  <link>https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/</link>
+  <title>Introduction to AI, xAI, Ethical AI and Collaborative Intelligence</title>
+  <dc:creator>Dr. Abdulwasiu Bamidele Popoola</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/seminars/introduction-to-ai-xai-ethical-ai-collaborative-intelligence/</link>
   <description><![CDATA[ 
 
 
@@ -233,17 +233,359 @@ Surgery (ERAS).”</span> September 4. <a href="https://waga43.github.io/anaesth
 
 
 <p class="seminar-meta">
-Departmental seminar series · Presented by a resident in the Anaesthesia Residency Programme · Open to all departmental staff
+Resident Doctors Weekly Seminar (Module 1) · Presented by Dr.&nbsp;Abdulwasiu B. Popoola · Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital
 </p>
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>This seminar reviewed the evidence behind early sepsis bundles, how bundle compliance is tracked, and where local resource constraints require adapting international recommendations to our ICU setting.</p>
-<p>Topics included:</p>
+<p>This seminar provides a foundational introduction to artificial intelligence (AI), explainable AI (xAI), ethical AI, and collaborative intelligence, with a focus on their application in healthcare. Delivered as Module 1 of the Resident Doctors Weekly Seminar series at the Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital, the lecture covers data fundamentals, the AI landscape, ethical and legal frameworks, and the emerging paradigm of human-AI collaboration.</p>
+</section>
+<section id="part-1-data-the-foundation-of-ai" class="level2">
+<h2 class="anchored" data-anchor-id="part-1-data-the-foundation-of-ai">Part 1: Data — The Foundation of AI</h2>
+<section id="what-is-data" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-data">What Is Data?</h3>
+<p>Data is derived from the Latin word <em>datum</em>, meaning fact. It exists in two main formats — structured and unstructured — and can be quantitative or qualitative. As <em>The Economist</em> noted in 2017, “The world’s most valuable resource is no longer oil, but data.”</p>
+</section>
+<section id="oil-vs.-data" class="level3">
+<h3 class="anchored" data-anchor-id="oil-vs.-data">Oil vs.&nbsp;Data</h3>
 <ul>
-<li>Recognising sepsis and septic shock at the bedside</li>
-<li>The 1-hour bundle: blood cultures, lactate, broad-spectrum antibiotics, fluids, and vasopressors</li>
-<li>Practical adaptations where culture turnaround or specific antibiotics are not immediately available</li>
-<li>Auditing bundle compliance on our unit</li>
+<li><strong>Infinite vs.&nbsp;finite:</strong> Oil is scarce and depletable; data can be duplicated and used infinitely without disappearing.</li>
+<li><strong>Depreciation:</strong> Oil retains energy value over time, but data often depreciates rapidly as information becomes outdated.</li>
+<li><strong>Silos vs.&nbsp;spills:</strong> Oil spills cause immediate environmental damage; data “spills” come as massive privacy breaches and security hacks.</li>
+</ul>
+</section>
+<section id="value-of-data-in-healthcare" class="level3">
+<h3 class="anchored" data-anchor-id="value-of-data-in-healthcare">Value of Data in Healthcare</h3>
+<p>Approximately 1 billion people use wearable technologies like smartwatches, fitness bands, and medical devices. Physicians can use the data generated to detect and predict possible disorders, improving decision-making in medicine and patient care. These data also drive pharmaceutical and healthcare research globally.</p>
+</section>
+<section id="the-5-vs-of-big-data" class="level3">
+<h3 class="anchored" data-anchor-id="the-5-vs-of-big-data">The 5 V’s of Big Data</h3>
+<ol type="1">
+<li><strong>Volume</strong> — the sheer quantity of data</li>
+<li><strong>Velocity</strong> — the speed at which data is generated and processed</li>
+<li><strong>Variety</strong> — the diversity of data types and sources</li>
+<li><strong>Veracity</strong> — the accuracy and trustworthiness of data</li>
+<li><strong>Value</strong> — the useful insights that can be extracted</li>
+</ol>
+</section>
+<section id="data-growth" class="level3">
+<h3 class="anchored" data-anchor-id="data-growth">Data Growth</h3>
+<ul>
+<li>2010: approximately 2 Zettabytes (1 ZB = 1 billion terabytes)</li>
+<li>2021: 80 Zettabytes</li>
+<li>2025: 182 Zettabytes</li>
+<li>Forecasted to reach 394 Zettabytes by 2028</li>
+</ul>
+</section>
+<section id="types-of-data-used-in-ai" class="level3">
+<h3 class="anchored" data-anchor-id="types-of-data-used-in-ai">Types of Data Used in AI</h3>
+<ul>
+<li><strong>Structured data:</strong> Quantitative, organized in rows and columns (spreadsheets). Examples: names, dates, addresses, credit card numbers, stock information.</li>
+<li><strong>Unstructured data (dark data):</strong> Qualitative data such as medical records, images, text, audio. Makes up over 80% of all modern data generated globally.</li>
+<li><strong>Semi-structured data:</strong> Combines features of both; uses metadata to identify characteristics and scale data into records. Examples: JSON files, XML code, emails with distinct headers but open text bodies.</li>
+</ul>
+</section>
+<section id="dikw-from-raw-data-to-valuable-decisions" class="level3">
+<h3 class="anchored" data-anchor-id="dikw-from-raw-data-to-valuable-decisions">DIKW — From Raw Data to Valuable Decisions</h3>
+<p>The DIKW model is a four-layer framework:</p>
+<ul>
+<li><strong>Data:</strong> Raw facts (e.g.&nbsp;90, 1.6, Risk, Hypertension)</li>
+<li><strong>Information:</strong> Contextualized data (e.g.&nbsp;70 kg, 1.6 m, risk of hypertension)</li>
+<li><strong>Knowledge:</strong> Interpreted information (e.g.&nbsp;BMI is 35.2 kg/m², increased health risk)</li>
+<li><strong>Wisdom:</strong> Actionable insight (e.g.&nbsp;weight reduction is needed due to attendant health risks)</li>
+</ul>
+</section>
+<section id="data-storage-stages-and-data-pipelines" class="level3">
+<h3 class="anchored" data-anchor-id="data-storage-stages-and-data-pipelines">Data Storage Stages and Data Pipelines</h3>
+<p>Data travels through a structured pipeline from creation to consumption. The three core storage architectures are <strong>Data Lakes</strong>, <strong>Data Warehouses</strong>, and <strong>Data Lakehouses</strong> — the modern hybrid.</p>
+</section>
+</section>
+<section id="part-2-introduction-to-ai" class="level2">
+<h2 class="anchored" data-anchor-id="part-2-introduction-to-ai">Part 2: Introduction to AI</h2>
+<section id="what-is-ai" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-ai">What Is AI?</h3>
+<p>Artificial intelligence refers to the simulation of human intelligence processes by computer systems. These processes include learning, reasoning, and self-correction.</p>
+</section>
+<section id="types-of-ai" class="level3">
+<h3 class="anchored" data-anchor-id="types-of-ai">Types of AI</h3>
+<ul>
+<li><strong>Artificial Narrow Intelligence (ANI):</strong> Task-specific AI (e.g.&nbsp;voice assistants, recommendation engines)</li>
+<li><strong>Artificial General Intelligence (AGI):</strong> Hypothetical AI with human-level cognitive abilities across all domains</li>
+<li><strong>Artificial Super Intelligence (ASI):</strong> Hypothetical AI surpassing human intelligence</li>
+</ul>
+</section>
+<section id="machine-learning" class="level3">
+<h3 class="anchored" data-anchor-id="machine-learning">Machine Learning</h3>
+<p>Machine learning is a subset of AI where systems learn from data without being explicitly programmed. Key approaches include:</p>
+<ul>
+<li><strong>Supervised learning:</strong> Learning from labelled data</li>
+<li><strong>Unsupervised learning:</strong> Finding patterns in unlabelled data</li>
+<li><strong>Reinforcement learning:</strong> Learning through trial and error with rewards</li>
+</ul>
+</section>
+<section id="deep-learning" class="level3">
+<h3 class="anchored" data-anchor-id="deep-learning">Deep Learning</h3>
+<p>Deep learning is a subset of machine learning using artificial neural networks with multiple layers. It powers image recognition, natural language processing, and many modern AI applications.</p>
+</section>
+<section id="ai-in-healthcare" class="level3">
+<h3 class="anchored" data-anchor-id="ai-in-healthcare">AI in Healthcare</h3>
+<p>AI applications in healthcare include:</p>
+<ul>
+<li>Medical imaging and diagnostics</li>
+<li>Drug discovery and development</li>
+<li>Personalized treatment plans</li>
+<li>Clinical decision support</li>
+<li>Predictive analytics for patient outcomes</li>
+<li>Robotic surgery assistance</li>
+</ul>
+</section>
+</section>
+<section id="part-3-explainable-ai-xai" class="level2">
+<h2 class="anchored" data-anchor-id="part-3-explainable-ai-xai">Part 3: Explainable AI (xAI)</h2>
+<section id="what-is-xai" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-xai">What Is xAI?</h3>
+<p>Explainable AI (xAI) is a set of processes, methods, and tools that allows human users to comprehend, trust, and effectively manage the outputs of machine learning algorithms. Traditional deep learning models operate as a “black box” — they ingest massive amounts of data, run it through billions of hidden mathematical layers, and output predictions, but cannot explain why they made a specific decision. xAI aims to turn that black box into a “glass box” by making internal reasoning visible and understandable.</p>
+</section>
+<section id="why-xai-is-necessary" class="level3">
+<h3 class="anchored" data-anchor-id="why-xai-is-necessary">Why xAI Is Necessary</h3>
+<p>When AI was only used for recommending movies on Netflix, a lack of explanation did not matter. Today, AI systems make high-stakes decisions that directly impact human lives, making explanations legally, ethically, and operationally mandatory.</p>
+<p><strong>Example in medical diagnostics:</strong> If an AI scans an X-ray and flags a tumor, doctors cannot blindly trust the tool. They need to know exactly which pixels or patterns led the AI to that conclusion before operating.</p>
+</section>
+<section id="the-trade-off-accuracy-vs.-explainability" class="level3">
+<h3 class="anchored" data-anchor-id="the-trade-off-accuracy-vs.-explainability">The Trade-Off: Accuracy vs.&nbsp;Explainability</h3>
+<ul>
+<li><strong>Simple models</strong> (linear regression, basic decision trees): 100% explainable, but too weak for complex tasks</li>
+<li><strong>Advanced models</strong> (transformers, deep neural networks): massive accuracy, but billions of parameters make them incredibly difficult for humans to map out</li>
+</ul>
+</section>
+<section id="historical-failures-caused-by-lack-of-xai" class="level3">
+<h3 class="anchored" data-anchor-id="historical-failures-caused-by-lack-of-xai">Historical Failures Caused by Lack of xAI</h3>
+<ul>
+<li>The UK’s A-Level grading algorithm for national high school exams during COVID-19</li>
+<li>Epic Systems’ Sepsis Prediction Model failure</li>
+</ul>
+</section>
+<section id="mechanistic-interpretability" class="level3">
+<h3 class="anchored" data-anchor-id="mechanistic-interpretability">Mechanistic Interpretability</h3>
+<p>Researchers are mapping out specific features across millions of neurons simultaneously. Pioneered by teams at Anthropic and OpenAI, this field attempts to reverse-engineer neural networks the same way a neuroscientist studies a physical brain.</p>
+</section>
+</section>
+<section id="part-4-ethical-ai" class="level2">
+<h2 class="anchored" data-anchor-id="part-4-ethical-ai">Part 4: Ethical AI</h2>
+<section id="core-ethical-principles" class="level3">
+<h3 class="anchored" data-anchor-id="core-ethical-principles">Core Ethical Principles</h3>
+<p>The following principles guide the development, deployment, and use of AI:</p>
+<ul>
+<li><strong>Fairness:</strong> AI systems should treat all individuals equally and avoid any form of discrimination</li>
+<li><strong>Accountability:</strong> Someone should always be accountable for the outcomes of an AI system</li>
+<li><strong>Transparency:</strong> Decisions made by AI systems should be explainable and comprehensible</li>
+</ul>
+</section>
+<section id="the-hamurabiai-case-study" class="level3">
+<h3 class="anchored" data-anchor-id="the-hamurabiai-case-study">The HamurabiAi Case Study</h3>
+<p>A fictional healthcare AI company illustrates how ethical principles apply in practice:</p>
+<ul>
+<li><strong>Fairness challenge:</strong> AI system develops social biases, discriminating based on gender, ethnicity, occupation. <strong>Solution:</strong> Continuously test AI systems to detect and rectify bias.</li>
+<li><strong>Accountability challenge:</strong> When the system makes a mistake, who is responsible — the developer, doctor, patient, hospital, or company? <strong>Solution:</strong> Define clear responsibilities for each AI system’s outcomes.</li>
+<li><strong>Transparency challenge:</strong> The system recommends a treatment without explaining why. Was it a black box or explainable AI model? <strong>Solution:</strong> Make AI systems explainable; share knowledge among stakeholders.</li>
+</ul>
+</section>
+<section id="ai-ethics-and-legislation-the-way-forward" class="level3">
+<h3 class="anchored" data-anchor-id="ai-ethics-and-legislation-the-way-forward">AI Ethics and Legislation — The Way Forward</h3>
+<ul>
+<li>Adopt a proactive approach involving all stakeholders: patients, healthcare providers, financial sponsors, researchers, regulators</li>
+<li>Develop clear guidelines and intellectual discussions on harnessing AI’s potential in healthcare</li>
+<li>Regulatory bodies must work harmoniously towards detailed ethical and legal guidelines</li>
+<li>Regularly review understanding of ethical and legal concerns as AI systems evolve</li>
+</ul>
+</section>
+<section id="nigerian-ai-policies-and-legislation" class="level3">
+<h3 class="anchored" data-anchor-id="nigerian-ai-policies-and-legislation">Nigerian AI Policies and Legislation</h3>
+<ul>
+<li><strong>National AI Strategy:</strong> The Federal Ministry of Communications, Innovation and Digital Economy launched the National Artificial Intelligence Strategy (NAIS)</li>
+<li><strong>Pending Legislation:</strong> Control of Usage of AI Technology Bill and National AI and Robotic Sciences Bill</li>
+<li><strong>Regulatory Baselines:</strong> NITDA Draft Code of Practice for AI, introducing rules on algorithmic transparency, safety risk assessments, and human oversight</li>
+<li><strong>National Centre for AI and Robotics (NCAIR):</strong> Established in 2020</li>
+<li><strong>Data Protection:</strong> Nigeria Data Protection Regulation 2019 (NDPR), Nigeria Data Protection Act 2023 (NDPA)</li>
+</ul>
+</section>
+<section id="ai-ethical-guidelines" class="level3">
+<h3 class="anchored" data-anchor-id="ai-ethical-guidelines">AI Ethical Guidelines</h3>
+<p>Most guidelines contain variations of:</p>
+<ul>
+<li>Humans need control and oversight of AI</li>
+<li>AI systems need to be technically robust and safe</li>
+<li>Respect principles of privacy, data governance, transparency, and fairness</li>
+<li>Environment and societal well-being</li>
+<li>Clear accountability framework</li>
+</ul>
+</section>
+</section>
+<section id="part-5-collaborative-intelligence" class="level2">
+<h2 class="anchored" data-anchor-id="part-5-collaborative-intelligence">Part 5: Collaborative Intelligence</h2>
+<section id="what-is-collaborative-intelligence-ci" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-collaborative-intelligence-ci">What Is Collaborative Intelligence (CI)?</h3>
+<p>Neither a human brain nor an AI algorithm can achieve perfect accuracy and precision. CI — also known as hybrid intelligence — is the practice of combining human and artificial intelligence to solve problems, innovate, and make decisions. It applies AI solutions to augment human productivity, helping individuals, teams, organisations, and businesses realise their full potential.</p>
+<p>The key shift: think in terms of “<strong>Humans <em>and</em> AI</strong>” and not “<strong>Humans <em>or</em> AI</strong>.”</p>
+</section>
+<section id="the-evolution-of-ci" class="level3">
+<h3 class="anchored" data-anchor-id="the-evolution-of-ci">The Evolution of CI</h3>
+<ul>
+<li>Recent fears about AI replacing humans at work gave the impression AI was a threat to jobs</li>
+<li>Developments show the focus should be on leveraging advantages offered by both AI and humans</li>
+<li>This overcomes the weaknesses of either alone while strengthening both together</li>
+</ul>
+</section>
+<section id="impact-of-ci-in-the-workplace" class="level3">
+<h3 class="anchored" data-anchor-id="impact-of-ci-in-the-workplace">Impact of CI in the Workplace</h3>
+<ul>
+<li>Enhanced decision-making</li>
+<li>Accelerated innovation</li>
+<li>Improved problem-solving</li>
+<li>Increased productivity</li>
+<li>Enhanced learning and skill development</li>
+</ul>
+</section>
+<section id="ci-in-healthcare" class="level3">
+<h3 class="anchored" data-anchor-id="ci-in-healthcare">CI in Healthcare</h3>
+<p>The increasing burden and complexity of disease cannot be managed in a one-to-one relationship by the decreasing clinical workforce. CI:</p>
+<ul>
+<li>Mirrors the potential and limits of leveraging AI in clinical care</li>
+<li>Involves advanced analytics and computing power</li>
+<li>Humans bear responsibility for accuracy, completeness, and inherent bias in training data</li>
+<li>Has already transformed radiology</li>
+<li>Will allow ingestion of information beyond imaging to be integrated across specialties</li>
+</ul>
+</section>
+<section id="why-ci-is-important-in-healthcare" class="level3">
+<h3 class="anchored" data-anchor-id="why-ci-is-important-in-healthcare">Why CI Is Important in Healthcare</h3>
+<p>The current healthcare challenge has three components:</p>
+<ol type="1">
+<li>Accelerating complexity and exponential information overload</li>
+<li>Transition to continuous care models and optimized resource allocation</li>
+<li>Eradicating disparities in access and quality, including social determinants of health</li>
+</ol>
+</section>
+<section id="physician-responsibility-and-interactivity-with-technology" class="level3">
+<h3 class="anchored" data-anchor-id="physician-responsibility-and-interactivity-with-technology">Physician Responsibility and Interactivity With Technology</h3>
+<ul>
+<li>Clinicians must become active in understanding the role of AI in healthcare</li>
+<li>Must deploy critical thinking skills to evaluate AI-sourced information</li>
+<li>Must be involved in the digital transformation of healthcare using AI</li>
+<li>As AI in clinical decision-making evolves, explainable AI principles must be adopted</li>
+</ul>
+</section>
+<section id="clinical-applications-of-ci" class="level3">
+<h3 class="anchored" data-anchor-id="clinical-applications-of-ci">Clinical Applications of CI</h3>
+<ul>
+<li>Clinicians need to understand what part of the process the AI aims to address</li>
+<li>Start small — use CI for low-complexity, non-urgent care first</li>
+<li>Clinicians must be involved in algorithm development</li>
+<li>At population level, CI aids in identifying individuals with rising risk</li>
+<li>Final implementation of care always lies with the clinical team, with shared decision-making with the patient</li>
+</ul>
+</section>
+<section id="successful-collaborations" class="level3">
+<h3 class="anchored" data-anchor-id="successful-collaborations">Successful Collaborations</h3>
+<ul>
+<li><strong>IBM Watson for Oncology:</strong> Invaluable tool for oncologists</li>
+<li><strong>Google Health and Royal Surrey County Hospital (UK):</strong> Improved breast cancer detection using AI in mammogram readings</li>
+<li><strong>Babylon Health:</strong> Telemedicine services enhancing patient care through human-AI collaboration</li>
+<li><strong>Stanford University School of Medicine:</strong> ML models analysing patient vital signs and EHR data to identify patients at risk of sepsis, respiratory failure, and cardiac arrest</li>
+</ul>
+</section>
+<section id="challenges-in-human-ai-collaboration" class="level3">
+<h3 class="anchored" data-anchor-id="challenges-in-human-ai-collaboration">Challenges in Human-AI Collaboration</h3>
+<ul>
+<li>Lack of trust between practitioners and AI “black boxes”</li>
+<li>Outdated infrastructure and lack of interoperability</li>
+<li>Resistance by healthcare workers to learn new technologies</li>
+<li>Fear of job loss</li>
+<li>Ethical challenges including patient privacy, data security, and algorithmic bias</li>
+</ul>
+</section>
+</section>
+<section id="part-6-high-risk-use-cases-and-ai-fluency" class="level2">
+<h2 class="anchored" data-anchor-id="part-6-high-risk-use-cases-and-ai-fluency">Part 6: High-Risk Use Cases and AI Fluency</h2>
+<section id="high-risk-use-cases" class="level3">
+<h3 class="anchored" data-anchor-id="high-risk-use-cases">High-Risk Use Cases</h3>
+<p>Some use cases pose elevated risk because they influence domains vital to public welfare. For these, additional safety measures apply:</p>
+<ul>
+<li><strong>Human-in-the-loop:</strong> A qualified professional must review content or decisions before dissemination</li>
+<li><strong>Disclosure:</strong> If model outputs are presented to individuals, AI involvement must be disclosed</li>
+</ul>
+<p><strong>Examples of high-risk use cases:</strong> Legal, healthcare, insurance, finance, employment and housing, academic writing/testing/accreditation, research, media or professional journalistic content.</p>
+</section>
+<section id="ai-use-in-academics-current-journal-policies-20252026" class="level3">
+<h3 class="anchored" data-anchor-id="ai-use-in-academics-current-journal-policies-20252026">AI Use in Academics — Current Journal Policies (2025–2026)</h3>
+<p>Publishers classify AI use into three frameworks:</p>
+<ol type="1">
+<li><strong>Assistive</strong> (grammar checking, language polishing, reference formatting): No disclosure required — treated like spell-checkers</li>
+<li><strong>Generative</strong> (generating text, figures, code, literature synthesis): Disclosure mandatory upon submission</li>
+<li><strong>Prohibitive</strong> (AI as author, undisclosed generative use, AI content as original analysis): Not allowed</li>
+</ol>
+</section>
+<section id="ai-fluency-and-the-4d-framework" class="level3">
+<h3 class="anchored" data-anchor-id="ai-fluency-and-the-4d-framework">AI Fluency and the 4D Framework</h3>
+<p>AI fluency is the ability to collaborate effectively with AI tools — developing judgement to use AI well across different situations. The 4D Framework identifies four core competencies for effective AI interaction.</p>
+</section>
+</section>
+<section id="part-7-prompt-engineering" class="level2">
+<h2 class="anchored" data-anchor-id="part-7-prompt-engineering">Part 7: Prompt Engineering</h2>
+<section id="what-is-prompt-engineering" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-prompt-engineering">What Is Prompt Engineering?</h3>
+<p>Prompt engineering is the art and science of designing, refining, and optimizing text instructions (prompts) to guide AI models like ChatGPT, DeepSeek, or Gemini to generate accurate, useful, and relevant responses. Think of it as “programming in natural language.”</p>
+</section>
+<section id="general-rules" class="level3">
+<h3 class="anchored" data-anchor-id="general-rules">General Rules</h3>
+<p>Speak to an AI chat app naturally, concisely, and conversationally, by:</p>
+<ol type="1">
+<li>Setting the stage (your role, objectives, and context)</li>
+<li>Defining the task (what action you want the AI to take)</li>
+<li>Specifying rules (tone, style, and examples)</li>
+</ol>
+</section>
+<section id="why-it-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-it-matters">Why It Matters</h3>
+<p>Large language models lack built-in task lists; their output depends almost entirely on how you ask.</p>
+<ul>
+<li><strong>Vague prompt:</strong> “Tell me about climate change.”</li>
+<li><strong>Engineered prompt:</strong> “Explain three major causes of climate change and their mechanisms. Include citations from peer-reviewed research and write for a 10th-grade reading level.”</li>
+</ul>
+</section>
+<section id="core-techniques" class="level3">
+<h3 class="anchored" data-anchor-id="core-techniques">Core Techniques</h3>
+<ul>
+<li><strong>Provide context:</strong> Give the AI background information or a specific persona</li>
+<li><strong>Specify format:</strong> Tell the AI how to structure its answer (bullet points, table, essay)</li>
+<li><strong>Few-shot prompting:</strong> Provide examples of input and desired output</li>
+<li><strong>Chain-of-thought (CoT):</strong> Ask the AI to “think step-by-step” before giving its final answer</li>
+<li><strong>Define constraints:</strong> Tell the AI what not to do (e.g.&nbsp;“Do not hallucinate; stick to verifiable facts”)</li>
+<li><strong>Persona/role prompting:</strong> Assign a persona before asking (e.g.&nbsp;“You are a [expert role] with [X years experience]”)</li>
+</ul>
+</section>
+</section>
+<section id="conclusion-and-recommendations" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion-and-recommendations">Conclusion and Recommendations</h2>
+<ul>
+<li>With great power comes great responsibility — ethics must guide AI adoption in healthcare</li>
+<li>A good understanding of ethical and legal implications will help drive responsible AI use</li>
+<li>There is an urgent need for clinicians to be actively involved in the design, development, deployment, and use of AI systems</li>
+<li>AI must be developed in regulated partnership between clinicians and computer scientists</li>
+<li>More doctors versed in both data science and medicine will be needed</li>
+<li>A robust legal framework for AI in healthcare is essential, but regulation should not stifle innovation</li>
+<li>As AI continues to evolve, we must embrace change and seize opportunities</li>
+</ul>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<ul>
+<li>Moningi Srilata et al.&nbsp;“Enhanced recovery after surgery: An anaesthesiologist’s perspective.” <em>Journal of Anaesthesiology, Clinical Pharmacology</em> vol.&nbsp;35, Suppl 1 (2019): S5-S13.</li>
+<li>Feldheiser A, Aziz O, Baldini G, et al.&nbsp;Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2: consensus statement for anaesthesia practice. <em>Acta Anaesthesiol Scand.</em> 2016;60(3):289-334.</li>
+<li>Various DataCamp courses on AI in medicine.</li>
+<li>“AI just as good at diagnosing illness as humans.”</li>
+<li>“Role of Artificial Intelligence in Patient Safety Outcomes: Systematic Literature Review.”</li>
+<li>“High-performance medicine: the convergence of human and artificial intelligence.”</li>
+<li>ERAS® Society: https://erassociety.org/about/</li>
 </ul>
 <div class="download-card">
 <span class="download-icon">📊</span>
@@ -252,148 +594,33 @@ Departmental seminar series · Presented by a resident in the Anaesthesia Reside
 Seminar slides
 </div>
 <div class="download-sub">
-Placeholder — upload the presentation file and link it here (PDF or PPTX).
+<a href="Introduction-to-AI,-xAI,-Ethical-AI-and-Collaborative-Intelligence 17-07-2026.ppsx">Introduction-to-AI,-xAI,-Ethical-AI-and-Collaborative-Intelligence 17-07-2026.ppsx</a>
 </div>
 </div>
 </div>
-<p><em>This is a template entry. To publish an actual seminar, replace this content with the presenter’s name, date, and slide file, following the pattern in this post’s source file (<code>seminars/sepsis-bundle-seminar/index.qmd</code>).</em></p>
 
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{anaesthesia_residency_programme2026,
-  author = {{Anaesthesia Residency Programme}},
-  title = {The {Sepsis} {Bundle} in the {ICU:} {What} the {Evidence}
-    {Says}},
-  date = {2026-07-30},
-  url = {https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/},
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{abdulwasiu_bamidele_popoola2026,
+  author = {Abdulwasiu Bamidele Popoola, Dr.},
+  title = {Introduction to {AI,} {xAI,} {Ethical} {AI} and
+    {Collaborative} {Intelligence}},
+  date = {2026-07-17},
+  url = {https://waga43.github.io/anaesthesia-akth/seminars/introduction-to-ai-xai-ethical-ai-collaborative-intelligence/},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-anaesthesia_residency_programme2026" class="csl-entry quarto-appendix-citeas">
-Anaesthesia Residency Programme. 2026. <span>“The Sepsis Bundle in the
-ICU: What the Evidence Says.”</span> July 30. <a href="https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/">https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/</a>.
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-abdulwasiu_bamidele_popoola2026" class="csl-entry quarto-appendix-citeas">
+Abdulwasiu Bamidele Popoola, Dr. 2026. <span>“Introduction to AI, xAI,
+Ethical AI and Collaborative Intelligence.”</span> July 17. <a href="https://waga43.github.io/anaesthesia-akth/seminars/introduction-to-ai-xai-ethical-ai-collaborative-intelligence/">https://waga43.github.io/anaesthesia-akth/seminars/introduction-to-ai-xai-ethical-ai-collaborative-intelligence/</a>.
 </div></div></section></div> ]]></description>
   <category>seminar</category>
-  <category>intensive-care</category>
-  <category>teaching</category>
-  <guid>https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/</guid>
-  <pubDate>Wed, 29 Jul 2026 23:00:00 GMT</pubDate>
-  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/sepsis-bundle-seminar/cover.svg" medium="image" type="image/svg+xml"/>
-</item>
-<item>
-  <title>Difficult Airway Algorithms in Practice</title>
-  <dc:creator>Anaesthesia Residency Programme</dc:creator>
-  <link>https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p class="seminar-meta">
-Departmental seminar series · Presented by a resident in the Anaesthesia Residency Programme · Open to all departmental staff
-</p>
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>This seminar reviewed structured approaches to difficult airway management, aligning departmental practice with recognised international algorithms and the equipment available on our airway trolleys.</p>
-<p>Topics included:</p>
-<ul>
-<li>Pre-operative difficult airway prediction (Mallampati, thyromental distance, and their limitations)</li>
-<li>The unanticipated difficult airway algorithm — plan A through D</li>
-<li>Front-of-neck access: indications and departmental equipment</li>
-<li>Human factors in a crisis: communication and role allocation</li>
-</ul>
-<div class="download-card">
-<span class="download-icon">📊</span>
-<div>
-<div class="download-label">
-Seminar slides
-</div>
-<div class="download-sub">
-Placeholder — upload the presentation file and link it here (PDF or PPTX).
-</div>
-</div>
-</div>
-<p><em>This is a template entry. To publish an actual seminar, replace this content with the presenter’s name, date, and slide file, following the pattern in this post’s source file (<code>seminars/difficult-airway-seminar/index.qmd</code>).</em></p>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{anaesthesia_residency_programme2026,
-  author = {{Anaesthesia Residency Programme}},
-  title = {Difficult {Airway} {Algorithms} in {Practice}},
-  date = {2026-06-25},
-  url = {https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-anaesthesia_residency_programme2026" class="csl-entry quarto-appendix-citeas">
-Anaesthesia Residency Programme. 2026. <span>“Difficult Airway
-Algorithms in Practice.”</span> June 25. <a href="https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/">https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/</a>.
-</div></div></section></div> ]]></description>
-  <category>seminar</category>
-  <category>airway-management</category>
-  <category>teaching</category>
-  <guid>https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/</guid>
-  <pubDate>Wed, 24 Jun 2026 23:00:00 GMT</pubDate>
-  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/difficult-airway-seminar/cover.svg" medium="image" type="image/svg+xml"/>
-</item>
-<item>
-  <title>Acute Post-Operative Pain Management: A Departmental Seminar</title>
-  <dc:creator>Anaesthesia Residency Programme</dc:creator>
-  <link>https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p class="seminar-meta">
-Departmental seminar series · Presented by a resident in the Anaesthesia Residency Programme · Open to all departmental staff
-</p>
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>This seminar covered the principles of multimodal analgesia for post-operative pain, the department’s acute pain service workflow, and common pitfalls in prescribing opioid and non-opioid analgesia on surgical wards.</p>
-<p>Topics included:</p>
-<ul>
-<li>The WHO analgesic ladder, adapted for acute post-operative pain</li>
-<li>Multimodal analgesia — combining paracetamol, NSAIDs (where not contraindicated), and regional techniques to reduce opioid requirement</li>
-<li>Recognising and managing opioid-related side effects on the ward</li>
-<li>When to escalate to the acute pain service</li>
-</ul>
-<div class="download-card">
-<span class="download-icon">📊</span>
-<div>
-<div class="download-label">
-Seminar slides
-</div>
-<div class="download-sub">
-Placeholder — upload the presentation file and link it here (PDF or PPTX).
-</div>
-</div>
-</div>
-<p><em>This is a template entry. To publish an actual seminar, replace this content with the presenter’s name, date, and slide file, following the pattern in this post’s source file (<code>seminars/pain-management-seminar/index.qmd</code>).</em></p>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{anaesthesia_residency_programme2026,
-  author = {{Anaesthesia Residency Programme}},
-  title = {Acute {Post-Operative} {Pain} {Management:} {A}
-    {Departmental} {Seminar}},
-  date = {2026-05-14},
-  url = {https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-anaesthesia_residency_programme2026" class="csl-entry quarto-appendix-citeas">
-Anaesthesia Residency Programme. 2026. <span>“Acute Post-Operative Pain
-Management: A Departmental Seminar.”</span> May 14. <a href="https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/">https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/</a>.
-</div></div></section></div> ]]></description>
-  <category>seminar</category>
-  <category>pain-management</category>
-  <category>teaching</category>
-  <guid>https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/</guid>
-  <pubDate>Wed, 13 May 2026 23:00:00 GMT</pubDate>
-  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/pain-management-seminar/cover.svg" medium="image" type="image/svg+xml"/>
+  <category>artificial-intelligence</category>
+  <category>ethics</category>
+  <category>healthcare-technology</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/seminars/introduction-to-ai-xai-ethical-ai-collaborative-intelligence/</guid>
+  <pubDate>Thu, 16 Jul 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/introduction-to-ai-xai-ethical-ai-collaborative-intelligence/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
