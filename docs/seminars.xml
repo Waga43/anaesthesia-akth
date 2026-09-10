@@ -10,7 +10,218 @@
 <atom:link href="https://waga43.github.io/anaesthesia-akth/seminars.xml" rel="self" type="application/rss+xml"/>
 <description>Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital — clinical care, education and research, affiliated with the Nigerian Society of Anaesthetists.</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 02 Sep 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Enhanced Recovery After Surgery (ERAS)</title>
+  <dc:creator>Amina Nura Yakasai</dc:creator>
+  <dc:creator>Dr. Bello</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p class="seminar-meta">
+Departmental seminar series · Presented by Amina Nura Yakasai · Moderator: Dr Bello · Open to all departmental staff
+</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>Enhanced Recovery After Surgery (ERAS) is a systematic, multimodal approach to perioperative care aimed at reducing the immense surgical stress on the patient and facilitating early recovery. Pioneered by Prof.&nbsp;Kehlet and Wilmore, the ERAS Study Group was established and later formalized as the ERAS Society in 2010. The first consensus guidelines appeared for colorectal surgeries in 2005, radical cystectomy in 2013, and gynecological and bariatric surgery in 2016.</p>
+<p>ERAS represents a shift from reactive to proactive patient management — a careful, coordinated multidisciplinary approach that, when adhered to, delivers better clinical outcomes.</p>
+</section>
+<section id="aims-of-eras" class="level2">
+<h2 class="anchored" data-anchor-id="aims-of-eras">Aims of ERAS</h2>
+<p>Enhanced recovery is a combination of elements of care for elective surgery which aims to:</p>
+<ul>
+<li>Optimise pre-operative preparation for surgery</li>
+<li>Avoid iatrogenic problems such as postoperative ileus</li>
+<li>Minimise the stress response to surgery</li>
+<li>Speed recovery and return to normal function</li>
+<li>Early recognition of abnormal recovery and intervention if necessary</li>
+</ul>
+</section>
+<section id="the-enhanced-recovery-pathway" class="level2">
+<h2 class="anchored" data-anchor-id="the-enhanced-recovery-pathway">The Enhanced Recovery Pathway</h2>
+<p>The pathway starts with the decision to seek surgical opinion and continues through follow-up of the patient after discharge. It aims at identifying and managing risk factors and comorbidities, and encompasses five phases: pre-operative, intra-operative, immediate post-operative, late post-operative, and recovery at home.</p>
+</section>
+<section id="prehabilitation-preparing-for-surgery" class="level2">
+<h2 class="anchored" data-anchor-id="prehabilitation-preparing-for-surgery">Prehabilitation: Preparing for Surgery</h2>
+<p>Preoperative preparation is the foundation of ERAS:</p>
+<ul>
+<li><strong>Patient counselling and involvement in decision making</strong> — through verbal discussion, written pamphlets, and online websites. Check understanding of expectations of post-operative recovery (joint responsibility).</li>
+<li><strong>Correction of nutritional deficiencies (anaemia)</strong> — in malnourished patients, start treatment 7–10 days before surgery and continue enteral solutions for at least 8 weeks postoperatively.</li>
+<li><strong>Exercise training, relaxation strategies, and sleep hygiene.</strong></li>
+</ul>
+<section id="fasting-guidelines-npo-time" class="level3">
+<h3 class="anchored" data-anchor-id="fasting-guidelines-npo-time">Fasting Guidelines (NPO Time)</h3>
+<ul>
+<li><strong>Solid food:</strong> up to 6 hours before induction of anaesthesia</li>
+<li><strong>Clear liquid:</strong> up to 2 hours before induction — helps to prevent the catabolic state</li>
+</ul>
+</section>
+<section id="carbohydrate-loading" class="level3">
+<h3 class="anchored" data-anchor-id="carbohydrate-loading">Carbohydrate Loading</h3>
+<p>Oral complex carbohydrates (maltodextrin) with high concentration (12.5%):</p>
+<ul>
+<li>100 gm (800 ml) administered the night before surgery</li>
+<li>50 gm (400 ml) 2–3 hours before induction of anaesthesia</li>
+</ul>
+<p>Benefits: lessen discomfort and anxiety, maintain lean body mass and muscle strength, accelerate return of bowel function, and reduce insulin resistance.</p>
+</section>
+<section id="thromboprophylaxis" class="level3">
+<h3 class="anchored" data-anchor-id="thromboprophylaxis">Thromboprophylaxis</h3>
+<p>Thromboembolism carries significant morbidity and mortality. Prophylaxis includes:</p>
+<ul>
+<li><strong>Mechanical devices:</strong> compressive stockings, intermittent pneumatic compression devices</li>
+<li><strong>Anticoagulants:</strong> LMWH, unfragmented heparin</li>
+</ul>
+</section>
+<section id="preoperative-medication" class="level3">
+<h3 class="anchored" data-anchor-id="preoperative-medication">Preoperative Medication</h3>
+<ul>
+<li><strong>Premedication</strong> as per requirement — aim is to reduce surgical stress response, without any sedative properties (or short-acting)</li>
+<li><strong>Pain management:</strong> acetaminophen, NSAIDs, gabapentinoids, dexamethasone</li>
+<li><strong>Shorter-acting pre-medications</strong> (alpha-2 agonists, beta blockers) — improve pain relief, anticatabolic, reduce blood loss and PONV</li>
+<li><strong>Avoid hyperglycaemia</strong> (hypermetabolic stress response increases risk of infection and cardiovascular morbidity) <strong>and hypoglycaemia</strong></li>
+</ul>
+</section>
+<section id="antibiotic-prophylaxis" class="level3">
+<h3 class="anchored" data-anchor-id="antibiotic-prophylaxis">Antibiotic Prophylaxis</h3>
+<ul>
+<li>A single dose covering both aerobes and anaerobes, administered just before surgical incision (30–60 minutes before)</li>
+<li>A second dose for procedures lasting &gt; 4 hours or blood loss &gt; 1500 ml</li>
+<li>Chlorhexidine-alcohol skin wipes pre-incision, bowel preparation with antibiotics, glove/instrument change, and antibiotic irrigation prior to closure — reduces SSIs by 34%</li>
+<li>Improves immune function and reduces inflammatory markers</li>
+</ul>
+</section>
+</section>
+<section id="intra-operative-management" class="level2">
+<h2 class="anchored" data-anchor-id="intra-operative-management">Intra-operative Management</h2>
+<section id="anaesthetic-techniques" class="level3">
+<h3 class="anchored" data-anchor-id="anaesthetic-techniques">Anaesthetic Techniques</h3>
+<ul>
+<li><strong>Pre-emptive analgesia</strong> — modify nociception and maximise physiological and pharmacological benefits to promote quick recovery</li>
+<li><strong>Oxygen titration</strong> — maintain PaO2 level (avoid hyperoxia)</li>
+<li><strong>Lung-protective mechanical ventilation</strong></li>
+<li><strong>Reduced volatile anaesthetics</strong> (0.7–1.3 MAC) — monitoring depth with BIS 40–60 and end-tidal concentration</li>
+<li><strong>Avoid nitrous oxide</strong> (PONV, accumulates in third cavities, increases thrombotic morbidity)</li>
+<li><strong>Short- and medium-acting neuromuscular agents</strong></li>
+<li><strong>Anaesthetic drugs with minimal post-operative hangover effect on gastric motility</strong></li>
+</ul>
+</section>
+<section id="intravascular-status-and-fluid-management" class="level3">
+<h3 class="anchored" data-anchor-id="intravascular-status-and-fluid-management">Intravascular Status and Fluid Management</h3>
+<p>Optimise fluid management — maintain central euvolaemia (avoid interstitial shift), minimise salt and water excess (vasopressors to be used). Balanced crystalloids are recommended.</p>
+<ul>
+<li><strong>Zero-balance fluid therapy</strong> (low-risk patient, low-risk surgery): 1–3 ml/kg/hr of balanced salt solution (maintain preop body weight, &gt; 2.5 kg)</li>
+<li><strong>Goal-directed fluid therapy (GDFT)</strong> (high-risk patient, large intravascular volume loss): using minimally invasive cardiac output monitor or oesophageal doppler; judicious use of colloids; inotropes if cardiac index &lt; 2.5 l/min</li>
+</ul>
+</section>
+<section id="avoiding-hypothermia" class="level3">
+<h3 class="anchored" data-anchor-id="avoiding-hypothermia">Avoiding Hypothermia</h3>
+<p>Hypothermia causes delayed wound healing, increased infection, increased blood loss, increased cortisol levels, increased oxygen consumption, and extends action of anaesthetic drugs.</p>
+<ul>
+<li>Active warming devices in all cases lasting &gt; 30 minutes (core temp maintained within 0.5–1.5 C of normal under GA)</li>
+<li>Forced air warming systems, warmed IV and irrigated solutions</li>
+<li>Anti-shivering agents: pethidine 0.25–0.5 mg/kg, tramadol, clonidine, dexmedetomidine, magnesium sulphate</li>
+</ul>
+</section>
+<section id="minimising-surgical-drains-and-catheters" class="level3">
+<h3 class="anchored" data-anchor-id="minimising-surgical-drains-and-catheters">Minimising Surgical Drains and Catheters</h3>
+<ul>
+<li><strong>Nasogastric tubes</strong> — prolong paralytic ileus, predispose to pulmonary aspiration</li>
+<li><strong>Urinary catheters</strong> — remove as early as possible irrespective of epidural catheter
+<ul>
+<li>Lower abdominal/pelvic surgeries: within 72 hours</li>
+<li>Most other surgeries: within 24 hours</li>
+<li>(CAUTI risk increases by 5% per day)</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="post-operative-care" class="level2">
+<h2 class="anchored" data-anchor-id="post-operative-care">Post-operative Care</h2>
+<section id="early-and-adequate-nutrition" class="level3">
+<h3 class="anchored" data-anchor-id="early-and-adequate-nutrition">Early and Adequate Nutrition</h3>
+<p>Decreased ileus, enhanced wound healing, reduced infection, maintained muscle strength.</p>
+<ul>
+<li>Early enteral nutrition — return to normal fluids and diets as soon as tolerated</li>
+<li>Discontinue IV fluids when drinking (&gt; 1.5 l/day)</li>
+<li>High-protein diet (&gt; 50% of protein/kcal)</li>
+<li>Benefits of immunonutrition: arginine, glutamine, omega-3 fatty acids, and nucleotides</li>
+</ul>
+</section>
+<section id="early-mobility" class="level3">
+<h3 class="anchored" data-anchor-id="early-mobility">Early Mobility</h3>
+<p>Patient empowerment through written targets, preoperative physical activity, and record keeping. Reduces skeletal muscle loss, improves respiratory function, and decreases pulmonary and thromboembolic complications.</p>
+<ul>
+<li>Sit out of bed for 2 hours on the day of surgery and 6 hours a day until discharge</li>
+<li>Daily procedure-specific goals</li>
+<li>Physiotherapy and rehabilitation is vital</li>
+<li>Discharge when criteria are met</li>
+</ul>
+</section>
+</section>
+<section id="limitations" class="level2">
+<h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
+<ul>
+<li>Fear of complications (e.g.&nbsp;aspiration risk)</li>
+<li>Logistic issues</li>
+<li>Illiteracy</li>
+<li>Inability to recognise early warning signs</li>
+<li>Lack of trained personnel</li>
+<li>Poor telecommunications</li>
+<li>Lack of coordination among multispecialty teams</li>
+<li>Infrastructure-related issues</li>
+</ul>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>The application of ERAS has certainly changed perioperative practice to provide a smoother journey for patients throughout the perioperative period of stress. ERAS is simply a careful, coordinated multidisciplinary approach, adherence to which has better clinical outcomes.</p>
+<p>In patients undergoing craniotomy, considerations such as techniques for scalp blocks, non-opioid alternatives for pain control, and improved outcomes with minimally invasive surgery are little different from the traditional ERAS concept.</p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<ul>
+<li>Moningi Srilata et al.&nbsp;“Enhanced recovery after surgery: An anaesthesiologist’s perspective.” <em>Journal of Anaesthesiology, Clinical Pharmacology</em> vol.&nbsp;35, Suppl 1 (2019): S5-S13.</li>
+<li>Feldheiser A, Aziz O, Baldini G, et al.&nbsp;Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2: consensus statement for anaesthesia practice. <em>Acta Anaesthesiol Scand.</em> 2016;60(3):289-334.</li>
+<li>About [Internet]. ERAS® Society. [cited 2022 Oct 2]. Available from: https://erassociety.org/about/</li>
+<li>History [Internet]. ERAS® Society. [cited 2022 Oct 2]. Available from: https://erassociety.org/about/history/</li>
+</ul>
+<div class="download-card">
+<span class="download-icon">📊</span>
+<div>
+<div class="download-label">
+Seminar slides
+</div>
+<div class="download-sub">
+<a href="ENHANCED-RECOVERY-AFTER-SURGERY-(ERAS).pptx">ENHANCED RECOVERY AFTER SURGERY (ERAS).pptx</a>
+</div>
+</div>
+</div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{nura_yakasai2026,
+  author = {Nura Yakasai, Amina and Bello, Dr.},
+  title = {Enhanced {Recovery} {After} {Surgery} {(ERAS)}},
+  date = {2026-09-04},
+  url = {https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-nura_yakasai2026" class="csl-entry quarto-appendix-citeas">
+Nura Yakasai, Amina, and Dr. Bello. 2026. <span>“Enhanced Recovery After
+Surgery (ERAS).”</span> September 4. <a href="https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/">https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/</a>.
+</div></div></section></div> ]]></description>
+  <category>seminar</category>
+  <category>anaesthesia</category>
+  <category>perioperative-care</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/</guid>
+  <pubDate>Thu, 03 Sep 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/cover.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>Enhanced Recovery After Surgery (ERAS)</title>
   <dc:creator>Dr. Amina Nura Yakasai</dc:creator>

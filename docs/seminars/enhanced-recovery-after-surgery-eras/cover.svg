@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B6E4F"/>
+      <stop offset="100%" stop-color="#08472F"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#g)"/>
+  <rect x="60" y="60" width="90" height="26" rx="13" fill="none" stroke="#FBFDFC" stroke-width="2"/>
+  <text x="105" y="78" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#FBFDFC" text-anchor="middle" letter-spacing="1">SEMINAR</text>
+  <path d="M60 320 H160 L185 270 L215 350 L245 300 L280 260 L310 340 H740"
+        fill="none" stroke="#FBFDFC" stroke-width="3" opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="60" y="200" font-family="Georgia, serif" font-weight="600" font-size="32" fill="#FBFDFC">Enhanced Recovery</text>
+  <text x="60" y="240" font-family="Georgia, serif" font-weight="600" font-size="32" fill="#FBFDFC">After Surgery (ERAS)</text>
+  <text x="60" y="275" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#BFE0CE">Presented by Amina Nura Yakasai &middot; 04 September 2026</text>
+</svg>
