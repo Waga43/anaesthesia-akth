@@ -49,9 +49,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-0f05cba98e93abd5bfacabf37e46c573.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0b299c51725b363a365e8d12d33b9e03.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-0a6f34ba6688d68f0d8f008a99b9d21c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-0b299c51725b363a365e8d12d33b9e03.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8e7cb7911c0635f5dc933eababd881c4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-5817a22ad0ee4ac85cab7e41088338f7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-8e7cb7911c0635f5dc933eababd881c4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -109,20 +109,20 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-posit-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-main-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-posit-listing'] = new List('listing-posit-listing', options);
+    window['quarto-listings']['listing-main-listing'] = new List('listing-main-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -501,7 +501,7 @@ window.Quarto = {
 <p class="posit-eyebrow">Featured</p>
 <div id="listing-featured-post" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Z3VpZGUlMkN0ZWFjaGluZyUyQ3JlZ2lvbmFsLWFuYWVzdGhlc2lh" data-listing-date-sort="1784502000000" data-listing-file-modified-sort="1788097254000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="405">
+<div class="quarto-post image-right" data-index="0" data-categories="Z3VpZGUlMkN0ZWFjaGluZyUyQ3JlZ2lvbmFsLWFuYWVzdGhlc2lh" data-listing-date-sort="1784502000000" data-listing-file-modified-sort="1788851659000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="405">
 <div class="thumbnail"><a href="./research/manuscripts/poc-ultrasound-regional-guide/index.html" class="no-external">
 
 <img loading="lazy" src="./research/manuscripts/poc-ultrasound-regional-guide/cover.svg" class="thumbnail-image">
@@ -530,74 +530,34 @@ Residents’ Academic Committee
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 <p class="posit-eyebrow posit-eyebrow-list">All research &amp; manuscripts</p>
-<!--
-  includes/posit-listing-shell-open.qmd
-
-  Reusable listing UI shell, styled after opensource.posit.co/blog: a
-  search box + checkbox topic filters + "Clear filters" on the left, a
-  sort control + results count + card list on the right. Paired with
-  includes/posit-listing-shell-close.qmd, with the page's Quarto listing
-  div (`::: {#your-listing-id} :::`) placed between the two.
-
-  HOW TO USE THIS IN A NEW LISTING PAGE:
-    1. In front matter, define a `listing:` block with:
-         filter-ui: false
-         sort-ui: false
-         categories: true
-       (this shell replaces Quarto's own filter/sort/category UI with
-       this one; leaving Quarto's own turned on too would fight over the
-       same cards' visibility — see posit-listing-filters.js's header
-       comment for why)
-    2. {{< include includes/posit-listing-shell-open.qmd >}}
-    3. ::: {#your-listing-id}
-       :::
-    4. {{< include includes/posit-listing-shell-close.qmd >}}
-
-  No JavaScript or CSS needs touching for a new listing page to get this
-  design — both are shared, loaded once per page, and derive everything
-  (topic names, counts, sorting) from the real rendered listing cards.
--->
-<div class="posit-listing-shell">
-
-  <div class="posit-filter-rail">
-    <div class="posit-search-box">
-      <i class="bi bi-search"></i>
-      <input type="text" class="posit-search-input" placeholder="Search…" aria-label="Search this list">
-    </div>
-
-    <div class="posit-filter-group">
-      <div class="posit-filter-heading">
-        <span>Topics</span>
-      </div>
-      <div class="posit-topics-list">
-        <!-- populated by posit-listing-filters.js from each card's own data-categories -->
-      </div>
-    </div>
-
-    <button class="posit-clear-btn posit-clear-filters" type="button">Clear filters</button>
+<div id="listing-main-listing" class="quarto-listing quarto-listing-container-default">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-main-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-main-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
   </div>
-
-  <div class="posit-listing-column">
-    <div class="posit-list-toolbar">
-      <span class="posit-results-count"></span>
-      <div class="posit-sort-control">
-        <label>Sort
-          <select class="posit-sort-select">
-            <option value="date-desc" selected="">Newest first</option>
-            <option value="date-asc">Oldest first</option>
-            <option value="title-asc">Title A–Z</option>
-            <option value="title-desc">Title Z–A</option>
-          </select>
-        </label>
-      </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
     </div>
-
-    <div class="posit-no-results" style="display:none;">
-      <p>Nothing matches your filters. <button class="posit-inline-link posit-no-results-clear" type="button">Clear filters</button></p>
-    </div>
-<div id="listing-posit-listing" class="quarto-listing quarto-listing-container-default">
+</div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Z3VpZGUlMkN0ZWFjaGluZyUyQ3JlZ2lvbmFsLWFuYWVzdGhlc2lh" data-listing-date-sort="1784502000000" data-listing-file-modified-sort="1788097254000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="405">
+<div class="quarto-post image-right" data-index="0" data-categories="Z3VpZGUlMkN0ZWFjaGluZyUyQ3JlZ2lvbmFsLWFuYWVzdGhlc2lh" data-listing-date-sort="1784502000000" data-listing-file-modified-sort="1788851659000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="405">
 <div class="thumbnail"><a href="./research/manuscripts/poc-ultrasound-regional-guide/index.html" class="no-external">
 
 <img loading="lazy" src="./research/manuscripts/poc-ultrasound-regional-guide/cover.svg" class="thumbnail-image">
@@ -607,15 +567,6 @@ Residents’ Academic Committee
 <h3 class="no-anchor listing-title">
 <a href="./research/manuscripts/poc-ultrasound-regional-guide/index.html" class="no-external">Getting Started with Point-of-Care Ultrasound for Regional Anaesthesia</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z3VpZGU='); return false;">guide</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVnaW9uYWwtYW5hZXN0aGVzaWE='); return false;">regional-anaesthesia</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/manuscripts/poc-ultrasound-regional-guide/index.html" class="no-external">
 <p>An orientation guide for residents beginning ultrasound-guided regional blocks — probe selection, needle visualisation, and common pitfalls.</p>
 </a></div>
@@ -632,7 +583,7 @@ Residents’ Academic Committee
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Z3VpZGUlMkN0ZWFjaGluZyUyQ29ic3RldHJpYy1hbmFlc3RoZXNpYSUyQ2ludGVuc2l2ZS1jYXJl" data-listing-date-sort="1780354800000" data-listing-file-modified-sort="1788097236000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
+<div class="quarto-post image-right" data-index="1" data-categories="Z3VpZGUlMkN0ZWFjaGluZyUyQ29ic3RldHJpYy1hbmFlc3RoZXNpYSUyQ2ludGVuc2l2ZS1jYXJl" data-listing-date-sort="1780354800000" data-listing-file-modified-sort="1788851659000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
 <div class="thumbnail"><a href="./research/manuscripts/obstetric-handover-guide/index.html" class="no-external">
 
 <img loading="lazy" src="./research/manuscripts/obstetric-handover-guide/cover.svg" class="thumbnail-image">
@@ -642,17 +593,6 @@ Residents’ Academic Committee
 <h3 class="no-anchor listing-title">
 <a href="./research/manuscripts/obstetric-handover-guide/index.html" class="no-external">A Practical Guide to Theatre-to-ICU Obstetric Handover</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z3VpZGU='); return false;">guide</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('b2JzdGV0cmljLWFuYWVzdGhlc2lh'); return false;">obstetric-anaesthesia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aW50ZW5zaXZlLWNhcmU='); return false;">intensive-care</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/manuscripts/obstetric-handover-guide/index.html" class="no-external">
 <p>A structured handover guide for residents, covering what to communicate when transferring a peri-operative obstetric patient to critical care.</p>
 </a></div>
@@ -679,15 +619,6 @@ Residents’ Academic Committee
 <h3 class="no-anchor listing-title">
 <a href="./research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/index.html" class="no-external">Recovery Profile and Discharge Following Day-Case Laparoscopic Gynaecological Surgeries: Sevoflurane vs Propofol</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF5LWNhc2UtYW5hZXN0aGVzaWE='); return false;">day-case-anaesthesia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('b2JzdGV0cmljLWFuYWVzdGhlc2lh'); return false;">obstetric-anaesthesia</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/recovery-day-case-laparoscopic-gynae-sevo-vs-propofol/index.html" class="no-external">
 <p>A comparative study of recovery time and discharge readiness after day-case laparoscopic gynaecological surgery, comparing sevoflurane- and propofol-based anaesthesia.</p>
 </a></div>
@@ -714,15 +645,6 @@ Atiku Mamuda, Mustapha Muhammad Miko
 <h3 class="no-anchor listing-title">
 <a href="./research/out-of-hospital-cpr-nigeria/index.html" class="no-external">Effectiveness of Out-of-Hospital Cardiopulmonary Resuscitation in Nigeria: An Evaluation of Key Components in the Chain of Survival</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzdXNjaXRhdGlvbg=='); return false;">resuscitation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2xvYmFsLWhlYWx0aA=='); return false;">global-health</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/out-of-hospital-cpr-nigeria/index.html" class="no-external">
 <p>A study evaluating how well the components of the ‘chain of survival’ function for out-of-hospital cardiac arrest in Nigeria.</p>
 </a></div>
@@ -749,13 +671,6 @@ Dalhat Salahu
 <h3 class="no-anchor listing-title">
 <a href="./research/cardiac-arrest-underlying-conditions-nigeria/index.html" class="no-external">Underlying Medical Conditions Identified in Patients with In-Hospital and Out-of-Hospital Cardiac Arrest in Nigeria</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzdXNjaXRhdGlvbg=='); return false;">resuscitation</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/cardiac-arrest-underlying-conditions-nigeria/index.html" class="no-external">
 <p>A study identifying the pre-existing medical conditions most commonly associated with cardiac arrest, in and out of hospital, in Nigeria.</p>
 </a></div>
@@ -782,15 +697,6 @@ Dalhat Salahu
 <h3 class="no-anchor listing-title">
 <a href="./research/postoperative-pain-research-priorities-delphi/index.html" class="no-external">Setting Priorities for African Postoperative Pain Research Through an International Delphi Process</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGFpbi1tYW5hZ2VtZW50'); return false;">pain-management</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2xvYmFsLWhlYWx0aA=='); return false;">global-health</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/postoperative-pain-research-priorities-delphi/index.html" class="no-external">
 <p>A Delphi consensus process identifying research priorities for postoperative pain across Africa, published in Anesthesia &amp; Analgesia (2025).</p>
 </a></div>
@@ -817,15 +723,6 @@ Alfa Mikailu
 <h3 class="no-anchor listing-title">
 <a href="./research/graded-epidural-hysterectomy-congenital-heart-disease/index.html" class="no-external">Graded Epidural Anaesthesia for Abdominal Hysterectomy in an Adult with Congenital Heart Disease: A Case Report</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FyZGlhYy1hbmFlc3RoZXNpYQ=='); return false;">cardiac-anaesthesia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVnaW9uYWwtYW5hZXN0aGVzaWE='); return false;">regional-anaesthesia</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/graded-epidural-hysterectomy-congenital-heart-disease/index.html" class="no-external">
 <p>A case report describing graded epidural anaesthesia for major abdominal surgery in a patient with congenital heart disease.</p>
 </a></div>
@@ -852,13 +749,6 @@ Atiku Mamuda, Dalhat Salahu, Mustapha Muhammad Miko, Alhassan Muhammad Datti, Zi
 <h3 class="no-anchor listing-title">
 <a href="./research/burnout-anaesthesia-providers-ssa/index.html" class="no-external">Burnout Among Anaesthesia Providers in Sub-Saharan Africa: A Scoping Review</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('d29ya2ZvcmNlLXdlbGxiZWluZw=='); return false;">workforce-wellbeing</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/burnout-anaesthesia-providers-ssa/index.html" class="no-external">
 <p>A scoping review mapping what is known about burnout among anaesthesia providers across Sub-Saharan Africa.</p>
 </a></div>
@@ -885,15 +775,6 @@ Zinnat Alhassan, Atiku Mamuda, Dalhat Salahu, Mustapha Muhammad Miko, Alhassan M
 <h3 class="no-anchor listing-title">
 <a href="./research/acios-critical-illness-africa/index.html" class="no-external">The African Critical Illness Outcomes Study (ACIOS): A Point Prevalence Study of Critical Illness in 22 Nations in Africa</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aW50ZW5zaXZlLWNhcmU='); return false;">intensive-care</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2xvYmFsLWhlYWx0aA=='); return false;">global-health</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/acios-critical-illness-africa/index.html" class="no-external">
 <p>A continent-wide point-prevalence study of critical illness and 7-day mortality across African hospitals, published in The Lancet (2025).</p>
 </a></div>
@@ -920,15 +801,6 @@ Zinnat Alhassan
 <h3 class="no-anchor listing-title">
 <a href="./research/difficult-airway-neonate-sublingual-cyst/index.html" class="no-external">Difficult Airway Management in a Neonate with Giant Sublingual Cyst: A Case Report</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YWlyd2F5LW1hbmFnZW1lbnQ='); return false;">airway-management</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGFlZGlhdHJpYy1hbmFlc3RoZXNpYQ=='); return false;">paediatric-anaesthesia</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/difficult-airway-neonate-sublingual-cyst/index.html" class="no-external">
 <p>A case report on managing a predicted difficult airway in a neonate with a large sublingual cyst.</p>
 </a></div>
@@ -955,17 +827,6 @@ Dalhat Salahu
 <h3 class="no-anchor listing-title">
 <a href="./research/fascia-iliaca-block-femoral-fracture/index.html" class="no-external">A Comparison of Fascia Iliaca Compartment Block with Intravenous Analgesia to Improve Pain Control in Patients with Femoral Fracture</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVnaW9uYWwtYW5hZXN0aGVzaWE='); return false;">regional-anaesthesia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGFpbi1tYW5hZ2VtZW50'); return false;">pain-management</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dHJhdW1h'); return false;">trauma</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/fascia-iliaca-block-femoral-fracture/index.html" class="no-external">
 <p>A comparative study of regional nerve block versus intravenous analgesia for pain control in femoral fracture patients.</p>
 </a></div>
@@ -992,15 +853,6 @@ Dalhat Salahu
 <h3 class="no-anchor listing-title">
 <a href="./research/ketamine-stability-after-reconstitution/index.html" class="no-external">Physicochemical Stability of Ketamine After Reconstitution for Injection: A Scoping Review</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGhhcm1hY29sb2d5'); return false;">pharmacology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGF0aWVudC1zYWZldHk='); return false;">patient-safety</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/ketamine-stability-after-reconstitution/index.html" class="no-external">
 <p>A scoping review of the evidence on how stable reconstituted ketamine solution remains over time, relevant to safe drug preparation in resource-limited settings.</p>
 </a></div>
@@ -1027,15 +879,6 @@ Dalhat Salahu
 <h3 class="no-anchor listing-title">
 <a href="./research/asos-paeds-outcomes-children-africa/index.html" class="no-external">Outcomes After Surgery for Children in Africa (ASOS-Paeds): A 14-Day Prospective Observational Cohort Study</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGFlZGlhdHJpYy1hbmFlc3RoZXNpYQ=='); return false;">paediatric-anaesthesia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2xvYmFsLWhlYWx0aA=='); return false;">global-health</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/asos-paeds-outcomes-children-africa/index.html" class="no-external">
 <p>A continent-wide, 14-day observational study of surgical outcomes in children across Africa, published in The Lancet (2024).</p>
 </a></div>
@@ -1062,13 +905,6 @@ Alhassan Muhammad Datti
 <h3 class="no-anchor listing-title">
 <a href="./research/airway-management-laparoscopic-igel-proseal/index.html" class="no-external">Airway Management During Diagnostic Laparoscopic Surgery: A Comparison of I-Gel and Proseal Laryngeal Mask Airway</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YWlyd2F5LW1hbmFnZW1lbnQ='); return false;">airway-management</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/airway-management-laparoscopic-igel-proseal/index.html" class="no-external">
 <p>A comparative study of two supraglottic airway devices during diagnostic laparoscopic surgery.</p>
 </a></div>
@@ -1095,15 +931,6 @@ Atiku Mamuda, Mustapha Muhammad Miko, Alhassan Muhammad Datti
 <h3 class="no-anchor listing-title">
 <a href="./research/ett-cuff-pressure-loss-of-resistance/index.html" class="no-external">Minimizing Adverse Effects of Subjective Measurement of Endotracheal Tube Cuff Pressure: Can the Use of the Loss of Resistance Technique Help?</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YWlyd2F5LW1hbmFnZW1lbnQ='); return false;">airway-management</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGF0aWVudC1zYWZldHk='); return false;">patient-safety</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/ett-cuff-pressure-loss-of-resistance/index.html" class="no-external">
 <p>A study examining whether the loss-of-resistance technique can improve on subjective (feel-based) endotracheal tube cuff pressure estimation.</p>
 </a></div>
@@ -1130,15 +957,6 @@ Atiku Mamuda
 <h3 class="no-anchor listing-title">
 <a href="./research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/index.html" class="no-external">A Comparative Study Between Propofol-Fentanyl Versus Propofol-Suxamethonium for Ease of Endotracheal Intubation in Children</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGFlZGlhdHJpYy1hbmFlc3RoZXNpYQ=='); return false;">paediatric-anaesthesia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YWlyd2F5LW1hbmFnZW1lbnQ='); return false;">airway-management</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/propofol-fentanyl-vs-suxamethonium-paediatric-intubation/index.html" class="no-external">
 <p>A comparative study of two induction drug combinations for ease of endotracheal intubation in paediatric patients.</p>
 </a></div>
@@ -1165,15 +983,6 @@ Alfa Mikailu, Atiku Mamuda, Dalhat Salahu
 <h3 class="no-anchor listing-title">
 <a href="./research/intraoperative-cardiac-arrest-anomalous-coronary/index.html" class="no-external">Intraoperative Cardiac Arrest: A Rare Case of Anomalous Coronary Arteries in a Previously Apparently Healthy Young Man</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FyZGlhYy1hbmFlc3RoZXNpYQ=='); return false;">cardiac-anaesthesia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGF0aWVudC1zYWZldHk='); return false;">patient-safety</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/intraoperative-cardiac-arrest-anomalous-coronary/index.html" class="no-external">
 <p>A case report of sudden intraoperative cardiac arrest revealing previously undiagnosed anomalous coronary arteries.</p>
 </a></div>
@@ -1200,15 +1009,6 @@ Atiku Mamuda
 <h3 class="no-anchor listing-title">
 <a href="./research/subarachnoid-lavage-intrathecal-txa/index.html" class="no-external">Subarachnoid Lavage Following Inadvertent Intrathecal Injection of Tranexamic Acid</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGF0aWVudC1zYWZldHk='); return false;">patient-safety</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVnaW9uYWwtYW5hZXN0aGVzaWE='); return false;">regional-anaesthesia</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/subarachnoid-lavage-intrathecal-txa/index.html" class="no-external">
 <p>A case report describing the management of a serious drug-error emergency — accidental intrathecal tranexamic acid injection.</p>
 </a></div>
@@ -1235,13 +1035,6 @@ Atiku Mamuda, Mustapha Muhammad Miko, Alhassan Muhammad Datti
 <h3 class="no-anchor listing-title">
 <a href="./research/groin-enterocutaneous-fistula-infant/index.html" class="no-external">Spontaneous Groin Enterocutaneous Fistula Following Neglected Inguinal Hernia in a 3-Month Infant</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGFlZGlhdHJpYy1hbmFlc3RoZXNpYQ=='); return false;">paediatric-anaesthesia</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/groin-enterocutaneous-fistula-infant/index.html" class="no-external">
 <p>A case report of a rare surgical complication in an infant, arising from a neglected inguinal hernia.</p>
 </a></div>
@@ -1268,15 +1061,6 @@ Atiku Mamuda
 <h3 class="no-anchor listing-title">
 <a href="./research/suxamethonium-propofol-lma/index.html" class="no-external">Efficacy of Low-Dose Suxamethonium in Reducing Induction Dose of Propofol for Laryngeal Mask Airway Insertion in Nigerian Adults</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('b2JzdGV0cmljLWFuYWVzdGhlc2lh'); return false;">obstetric-anaesthesia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YWlyd2F5LW1hbmFnZW1lbnQ='); return false;">airway-management</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/suxamethonium-propofol-lma/index.html" class="no-external">
 <p>A departmental study on drug dosing for airway management, published in the Nigerian Journal of Medicine (2021).</p>
 </a></div>
@@ -1303,15 +1087,6 @@ Dalhat Salahu, Saheed Adesope, Alhassan Mohammed Datti, Mustapha Miko Abdullahi,
 <h3 class="no-anchor listing-title">
 <a href="./research/asos-nigerian-surgical-outcomes/index.html" class="no-external">Nigerian Surgical Outcomes — Report of a 7-Day Prospective Cohort Study and External Validation of the ASOS Surgical Risk Calculator</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGF0aWVudC1zYWZldHk='); return false;">patient-safety</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2xvYmFsLWhlYWx0aA=='); return false;">global-health</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/asos-nigerian-surgical-outcomes/index.html" class="no-external">
 <p>A 7-day, multi-centre prospective cohort study of surgical outcomes in Nigeria, as part of the wider African Surgical Outcomes Study (ASOS).</p>
 </a></div>
@@ -1338,15 +1113,6 @@ Atiku Mamuda
 <h3 class="no-anchor listing-title">
 <a href="./research/anaesthesia-perception-caesarean/index.html" class="no-external">Knowledge, Attitude, and Perception of Pregnant Women Toward Anesthesia for Caesarean Section</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('b2JzdGV0cmljLWFuYWVzdGhlc2lh'); return false;">obstetric-anaesthesia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGF0aWVudC1lZHVjYXRpb24='); return false;">patient-education</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/anaesthesia-perception-caesarean/index.html" class="no-external">
 <p>A cross-sectional study at Aminu Kano Teaching Hospital, published in the Sahel Medical Journal (2019).</p>
 </a></div>
@@ -1373,11 +1139,6 @@ Ayyuba Rabiu, Idris Sulaiman Abubakar, Alhassan Datti Muhammad
 <h3 class="no-anchor listing-title">
 <a href="./research/septic-arthritis-pattern-northern-nigeria/index.html" class="no-external">Pattern of Septic Arthritis in a Tertiary Hospital in Northern Nigeria: A Retrospective Study</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyY2g='); return false;">research</div>
-
-</div>
 <div class="delink listing-description"><a href="./research/septic-arthritis-pattern-northern-nigeria/index.html" class="no-external">
 <p>A retrospective study describing the pattern and presentation of septic arthritis cases at a tertiary hospital in Northern Nigeria.</p>
 </a></div>
@@ -1397,14 +1158,6 @@ Atiku Mamuda
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<!--
-  includes/posit-listing-shell-close.qmd
-  Pairs with includes/posit-listing-shell-open.qmd — see that file for
-  the full usage pattern.
--->
-  </div>
-</div>
-<script src="./styles/posit-listing-filters.js"></script>
 
 
 

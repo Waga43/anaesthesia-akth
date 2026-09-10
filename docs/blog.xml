@@ -39,16 +39,16 @@
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{team2026,
-  author = {Team, ICU},
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{icu_team2026,
+  author = {{ICU Team}},
   title = {A {Simple} {ICU} {Ward} {Round} {Checklist} {Worth}
     {Repeating}},
   date = {2026-11-04},
   url = {https://waga43.github.io/anaesthesia-akth/posts/icu-ward-round-checklist/},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-team2026" class="csl-entry quarto-appendix-citeas">
-Team, ICU. 2026. <span>“A Simple ICU Ward Round Checklist Worth
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-icu_team2026" class="csl-entry quarto-appendix-citeas">
+ICU Team. 2026. <span>“A Simple ICU Ward Round Checklist Worth
 Repeating.”</span> November 4. <a href="https://waga43.github.io/anaesthesia-akth/posts/icu-ward-round-checklist/">https://waga43.github.io/anaesthesia-akth/posts/icu-ward-round-checklist/</a>.
 </div></div></section></div> ]]></description>
   <category>teaching</category>
@@ -82,15 +82,15 @@ Repeating.”</span> November 4. <a href="https://waga43.github.io/anaesthesia-a
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{of_anaesthesia_&amp;_intensive_care2026,
-  author = {of Anaesthesia \&amp; Intensive Care, Department},
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{department_of_anaesthesia_&amp;_intensive_care2026,
+  author = {{Department of Anaesthesia \&amp; Intensive Care}},
   title = {Marking {World} {Anaesthesia} {Day} at {AKTH}},
   date = {2026-10-16},
   url = {https://waga43.github.io/anaesthesia-akth/posts/world-anaesthesia-day-2026/},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-of_anaesthesia_&amp;_intensive_care2026" class="csl-entry quarto-appendix-citeas">
-Anaesthesia &amp; Intensive Care, Department of. 2026. <span>“Marking
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-department_of_anaesthesia_&amp;_intensive_care2026" class="csl-entry quarto-appendix-citeas">
+Department of Anaesthesia &amp; Intensive Care. 2026. <span>“Marking
 World Anaesthesia Day at AKTH.”</span> October 16. <a href="https://waga43.github.io/anaesthesia-akth/posts/world-anaesthesia-day-2026/">https://waga43.github.io/anaesthesia-akth/posts/world-anaesthesia-day-2026/</a>.
 </div></div></section></div> ]]></description>
   <category>events</category>
@@ -127,15 +127,15 @@ World Anaesthesia Day at AKTH.”</span> October 16. <a href="https://waga43.git
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{of_anaesthesia_&amp;_intensive_care2026,
-  author = {of Anaesthesia \&amp; Intensive Care, Department},
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{department_of_anaesthesia_&amp;_intensive_care2026,
+  author = {{Department of Anaesthesia \&amp; Intensive Care}},
   title = {Welcome to the {Department} {Blog}},
   date = {2026-08-10},
   url = {https://waga43.github.io/anaesthesia-akth/posts/welcome-to-the-department/},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-of_anaesthesia_&amp;_intensive_care2026" class="csl-entry quarto-appendix-citeas">
-Anaesthesia &amp; Intensive Care, Department of. 2026. <span>“Welcome to
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-department_of_anaesthesia_&amp;_intensive_care2026" class="csl-entry quarto-appendix-citeas">
+Department of Anaesthesia &amp; Intensive Care. 2026. <span>“Welcome to
 the Department Blog.”</span> August 10. <a href="https://waga43.github.io/anaesthesia-akth/posts/welcome-to-the-department/">https://waga43.github.io/anaesthesia-akth/posts/welcome-to-the-department/</a>.
 </div></div></section></div> ]]></description>
   <category>announcements</category>

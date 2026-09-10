@@ -49,9 +49,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-0f05cba98e93abd5bfacabf37e46c573.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0b299c51725b363a365e8d12d33b9e03.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-0a6f34ba6688d68f0d8f008a99b9d21c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-0b299c51725b363a365e8d12d33b9e03.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8e7cb7911c0635f5dc933eababd881c4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-5817a22ad0ee4ac85cab7e41088338f7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-8e7cb7911c0635f5dc933eababd881c4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -109,20 +109,20 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-posit-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-main-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-posit-listing'] = new List('listing-posit-listing', options);
+    window['quarto-listings']['listing-main-listing'] = new List('listing-main-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -499,7 +499,7 @@ window.Quarto = {
 <p class="posit-eyebrow">Featured</p>
 <div id="listing-featured-post" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNpbnRlbnNpdmUtY2FyZQ==" data-listing-date-sort="1793746800000" data-listing-file-modified-sort="1787865562000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
+<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNpbnRlbnNpdmUtY2FyZQ==" data-listing-date-sort="1793746800000" data-listing-file-modified-sort="1788851654000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
 <div class="thumbnail"><a href="./posts/icu-ward-round-checklist/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/icu-ward-round-checklist/cover.svg" class="thumbnail-image">
@@ -528,74 +528,34 @@ ICU Team
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 <p class="posit-eyebrow posit-eyebrow-list">All posts</p>
-<!--
-  includes/posit-listing-shell-open.qmd
-
-  Reusable listing UI shell, styled after opensource.posit.co/blog: a
-  search box + checkbox topic filters + "Clear filters" on the left, a
-  sort control + results count + card list on the right. Paired with
-  includes/posit-listing-shell-close.qmd, with the page's Quarto listing
-  div (`::: {#your-listing-id} :::`) placed between the two.
-
-  HOW TO USE THIS IN A NEW LISTING PAGE:
-    1. In front matter, define a `listing:` block with:
-         filter-ui: false
-         sort-ui: false
-         categories: true
-       (this shell replaces Quarto's own filter/sort/category UI with
-       this one; leaving Quarto's own turned on too would fight over the
-       same cards' visibility — see posit-listing-filters.js's header
-       comment for why)
-    2. {{< include includes/posit-listing-shell-open.qmd >}}
-    3. ::: {#your-listing-id}
-       :::
-    4. {{< include includes/posit-listing-shell-close.qmd >}}
-
-  No JavaScript or CSS needs touching for a new listing page to get this
-  design — both are shared, loaded once per page, and derive everything
-  (topic names, counts, sorting) from the real rendered listing cards.
--->
-<div class="posit-listing-shell">
-
-  <div class="posit-filter-rail">
-    <div class="posit-search-box">
-      <i class="bi bi-search"></i>
-      <input type="text" class="posit-search-input" placeholder="Search…" aria-label="Search this list">
-    </div>
-
-    <div class="posit-filter-group">
-      <div class="posit-filter-heading">
-        <span>Topics</span>
-      </div>
-      <div class="posit-topics-list">
-        <!-- populated by posit-listing-filters.js from each card's own data-categories -->
-      </div>
-    </div>
-
-    <button class="posit-clear-btn posit-clear-filters" type="button">Clear filters</button>
+<div id="listing-main-listing" class="quarto-listing quarto-listing-container-default">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-main-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-main-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
   </div>
-
-  <div class="posit-listing-column">
-    <div class="posit-list-toolbar">
-      <span class="posit-results-count"></span>
-      <div class="posit-sort-control">
-        <label>Sort
-          <select class="posit-sort-select">
-            <option value="date-desc" selected="">Newest first</option>
-            <option value="date-asc">Oldest first</option>
-            <option value="title-asc">Title A–Z</option>
-            <option value="title-desc">Title Z–A</option>
-          </select>
-        </label>
-      </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
     </div>
-
-    <div class="posit-no-results" style="display:none;">
-      <p>Nothing matches your filters. <button class="posit-inline-link posit-no-results-clear" type="button">Clear filters</button></p>
-    </div>
-<div id="listing-posit-listing" class="quarto-listing quarto-listing-container-default">
+</div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNpbnRlbnNpdmUtY2FyZQ==" data-listing-date-sort="1793746800000" data-listing-file-modified-sort="1787865562000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
+<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNpbnRlbnNpdmUtY2FyZQ==" data-listing-date-sort="1793746800000" data-listing-file-modified-sort="1788851654000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
 <div class="thumbnail"><a href="./posts/icu-ward-round-checklist/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/icu-ward-round-checklist/cover.svg" class="thumbnail-image">
@@ -605,13 +565,6 @@ ICU Team
 <h3 class="no-anchor listing-title">
 <a href="./posts/icu-ward-round-checklist/index.html" class="no-external">A Simple ICU Ward Round Checklist Worth Repeating</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aW50ZW5zaXZlLWNhcmU='); return false;">intensive-care</div>
-
-</div>
 <div class="delink listing-description"><a href="./posts/icu-ward-round-checklist/index.html" class="no-external">
 <p>A teaching note for residents rotating through the intensive care unit.</p>
 </a></div>
@@ -628,7 +581,7 @@ ICU Team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="ZXZlbnRzJTJDcGF0aWVudC1zYWZldHk=" data-listing-date-sort="1792105200000" data-listing-file-modified-sort="1788758799488" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<div class="quarto-post image-right" data-index="1" data-categories="ZXZlbnRzJTJDcGF0aWVudC1zYWZldHk=" data-listing-date-sort="1792105200000" data-listing-file-modified-sort="1788851654000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
 <div class="thumbnail"><a href="./posts/world-anaesthesia-day-2026/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/world-anaesthesia-day-2026/cover.svg" class="thumbnail-image">
@@ -638,13 +591,6 @@ ICU Team
 <h3 class="no-anchor listing-title">
 <a href="./posts/world-anaesthesia-day-2026/index.html" class="no-external">Marking World Anaesthesia Day at AKTH</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZXZlbnRz'); return false;">events</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGF0aWVudC1zYWZldHk='); return false;">patient-safety</div>
-
-</div>
 <div class="delink listing-description"><a href="./posts/world-anaesthesia-day-2026/index.html" class="no-external">
 <p>Reflections on patient safety, teamwork and the theme for this year’s observance.</p>
 </a></div>
@@ -661,7 +607,7 @@ Department of Anaesthesia &amp; Intensive Care
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="YW5ub3VuY2VtZW50cw==" data-listing-date-sort="1786316400000" data-listing-file-modified-sort="1788759237590" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
+<div class="quarto-post image-right" data-index="2" data-categories="YW5ub3VuY2VtZW50cw==" data-listing-date-sort="1786316400000" data-listing-file-modified-sort="1788851654000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
 <div class="thumbnail"><a href="./posts/welcome-to-the-department/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/welcome-to-the-department/cover.svg" class="thumbnail-image">
@@ -671,11 +617,6 @@ Department of Anaesthesia &amp; Intensive Care
 <h3 class="no-anchor listing-title">
 <a href="./posts/welcome-to-the-department/index.html" class="no-external">Welcome to the Department Blog</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YW5ub3VuY2VtZW50cw=='); return false;">announcements</div>
-
-</div>
 <div class="delink listing-description"><a href="./posts/welcome-to-the-department/index.html" class="no-external">
 <p>Introducing our new home on the web, and what to expect from this space.</p>
 </a></div>
@@ -695,14 +636,6 @@ Department of Anaesthesia &amp; Intensive Care
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<!--
-  includes/posit-listing-shell-close.qmd
-  Pairs with includes/posit-listing-shell-open.qmd — see that file for
-  the full usage pattern.
--->
-  </div>
-</div>
-<script src="./styles/posit-listing-filters.js"></script>
 
 
 
