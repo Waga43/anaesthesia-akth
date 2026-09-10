@@ -13,7 +13,7 @@
 <lastBuildDate>Thu, 03 Sep 2026 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Enhanced Recovery After Surgery (ERAS)</title>
-  <dc:creator>Amina Nura Yakasai</dc:creator>
+  <dc:creator>Dr. Amina Nura Yakasai</dc:creator>
   <dc:creator>Dr. Bello</dc:creator>
   <link>https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/</link>
   <description><![CDATA[ 
@@ -220,64 +220,7 @@ Surgery (ERAS).”</span> September 4. <a href="https://waga43.github.io/anaesth
   <category>perioperative-care</category>
   <guid>https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/</guid>
   <pubDate>Thu, 03 Sep 2026 23:00:00 GMT</pubDate>
-  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/cover.svg" medium="image" type="image/svg+xml"/>
-</item>
-<item>
-  <title>Enhanced Recovery After Surgery (ERAS)</title>
-  <dc:creator>Dr. Amina Nura Yakasai</dc:creator>
-  <link>https://waga43.github.io/anaesthesia-akth/seminars/eras/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p class="seminar-meta">
-Departmental seminar series· Presented by a resident in the Anaesthesia Residency Programme· Open to all departmental staff
-</p>
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>This seminar reviewed the evidence behind Enhanced Recovery After Surgery (ERAS). ERAS is a systematic multimodal perioperative care aimed at reducing the immense surgical stress of the patient and thereby facilitating early recovery. It relects a shift from reactive to proactive patient management.</p>
-<!-- Topics included:
-
-- Recognising sepsis and septic shock at the bedside
-- The 1-hour bundle: blood cultures, lactate, broad-spectrum antibiotics,
-  fluids, and vasopressors
-- Practical adaptations where culture turnaround or specific antibiotics
-  are not immediately available
-- Auditing bundle compliance on our unit -->
-<div class="download-card">
-<span class="download-icon">📊</span>
-<div>
-<div class="download-label">
-Seminar slides
-</div>
-<div class="download-sub">
-seminars/eras/ENHANCED-RECOVERY-AFTER-SURGERY-(ERAS).pptx
-</div>
-</div>
-</div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{amina_nura_yakasai2026,
-  author = {Amina Nura Yakasai, Dr.},
-  title = {Enhanced {Recovery} {After} {Surgery} {(ERAS)}},
-  date = {2026-09-03},
-  url = {https://waga43.github.io/anaesthesia-akth/seminars/eras/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-amina_nura_yakasai2026" class="csl-entry quarto-appendix-citeas">
-Amina Nura Yakasai, Dr. 2026. <span>“Enhanced Recovery After Surgery
-(ERAS).”</span> September 3. <a href="https://waga43.github.io/anaesthesia-akth/seminars/eras/">https://waga43.github.io/anaesthesia-akth/seminars/eras/</a>.
-</div></div></section></div> ]]></description>
-  <category>seminar</category>
-  <category>eras</category>
-  <category>residents</category>
-  <guid>https://waga43.github.io/anaesthesia-akth/seminars/eras/</guid>
-  <pubDate>Wed, 02 Sep 2026 23:00:00 GMT</pubDate>
-  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/eras/cover.svg" medium="image" type="image/svg+xml"/>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/enhanced-recovery-after-surgery-eras/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The Sepsis Bundle in the ICU: What the Evidence Says</title>
