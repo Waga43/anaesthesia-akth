@@ -24,7 +24,7 @@
 <section id="what-is-it" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-it">What Is It?</h2>
 <p>The <strong>EduTechTainMent Research Librarian</strong> is an interactive AI skill for <a href="https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview">Claude</a> or any other AI Agents that turns a conversation into a research-methodology consulting session. It walks a researcher, in any discipline, from a rough idea through to a fully structured, evidence-grounded, submission-ready study protocol.</p>
-<p>Created and maintained by (EduTechTainMent](https://waga43.github.io/weblog)</p>
+<p>Created and maintained by <a href="https://waga43.github.io/weblog">EduTechTainMent</a></p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -791,13 +791,10 @@ Resident Doctors Weekly Seminar (Module 1) · Presented by Dr.&nbsp;Abdulwasiu B
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
 <ul>
-<li>Moningi Srilata et al.&nbsp;“Enhanced recovery after surgery: An anaesthesiologist’s perspective.” <em>Journal of Anaesthesiology, Clinical Pharmacology</em> vol.&nbsp;35, Suppl 1 (2019): S5-S13.</li>
-<li>Feldheiser A, Aziz O, Baldini G, et al.&nbsp;Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2: consensus statement for anaesthesia practice. <em>Acta Anaesthesiol Scand.</em> 2016;60(3):289-334.</li>
 <li>Various DataCamp courses on AI in medicine.</li>
 <li>“AI just as good at diagnosing illness as humans.”</li>
 <li>“Role of Artificial Intelligence in Patient Safety Outcomes: Systematic Literature Review.”</li>
 <li>“High-performance medicine: the convergence of human and artificial intelligence.”</li>
-<li>ERAS® Society: https://erassociety.org/about/</li>
 </ul>
 <div class="download-card">
 <span class="download-icon">📊</span>
