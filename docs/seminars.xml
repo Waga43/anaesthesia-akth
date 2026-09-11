@@ -10,7 +10,219 @@
 <atom:link href="https://waga43.github.io/anaesthesia-akth/seminars.xml" rel="self" type="application/rss+xml"/>
 <description>Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital — clinical care, education and research, affiliated with the Nigerian Society of Anaesthetists.</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 03 Sep 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>EduTechTainMent Research Assistant</title>
+  <dc:creator>Dr. Abdulwasiu Bamidele Popoola</dc:creator>
+  <link>https://waga43.github.io/anaesthesia-akth/seminars/edutechtainment-research-assistant-setup-guide/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="what-is-it" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-it">What Is It?</h2>
+<p>The <strong>EduTechTainMent Research Librarian</strong> is an interactive AI skill for <a href="https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview">Claude</a> or any other AI Agents that turns a conversation into a research-methodology consulting session. It walks a researcher, in any discipline, from a rough idea through to a fully structured, evidence-grounded, submission-ready study protocol.</p>
+<p>Created and maintained by (EduTechTainMent](https://waga43.github.io/weblog)</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>Remember: You can outsource your thinking to AI, but NEVER outsource your understanding to AI.</em></p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>AI can give you answers fast enough to simulate understanding.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caution
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>It is hard to understand something if you haven’t thought about it.</p>
+<p>AI is the living proof of that, it can think for ages and come up with (a) suprisingly stupid idea(s).</p>
+</div>
+</div>
+</section>
+<section id="what-can-this-skill-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-can-this-skill-do">What Can This Skill Do?</h2>
+<p>At its core, the skill helps you:</p>
+<ul>
+<li>Scope the type of study and discipline</li>
+<li>Build or critically refine a formal, answerable research question</li>
+<li>Break the question down using the correct framework (PICO, PICOC, PECO, PEO, CoCoPop, SPICE, SPIDER, or PCC), with a search for precedent studies that used the same framework</li>
+<li>Construct syntax-validated search strings for Boolean-query academic databases, plus guidance for AI-native discovery tools (Consensus, Inciteful, Research Rabbit, Semantic Scholar)</li>
+<li>Classify study variables and map them to the statistically correct test using an interactive decision-tree conversation</li>
+<li>Produce a verified reading list with every citation checked</li>
+<li>Assemble a final deliverable document (Markdown, Word, or PDF)</li>
+</ul>
+<p>The skill is:</p>
+<ul>
+<li><strong>interactive by design</strong> - it stops after every major step and asks for your input,</li>
+<li><strong>critical by construction</strong> - it pushes back on weak inputs rather than rubber-stamping them, and</li>
+<li>Has <strong>zero tolerance for fabrication</strong> - no invented citations, DOIs, statistics, or cost figures.</li>
+</ul>
+</section>
+<section id="which-version-should-i-install" class="level2">
+<h2 class="anchored" data-anchor-id="which-version-should-i-install">Which Version Should I Install?</h2>
+<p>The archive contains three versions. Here is a quick decision guide:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>If you want…</th>
+<th>Install</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Just a database-search-string builder and a PICO-family breakdown helper, with critical pushback on your inputs</td>
+<td><strong>v1</strong></td>
+</tr>
+<tr class="even">
+<td>The above, plus help turning a question into rigorous, literature-justified SMART objectives</td>
+<td><strong>v2</strong></td>
+</tr>
+<tr class="odd">
+<td>The above, plus question brainstorming, realistic feasibility/timeline/cost estimation, an honest limitations critique, and a full IRB-ready protocol with detailed workflow documentation</td>
+<td><strong>v3</strong> (recommended)</td>
+</tr>
+<tr class="even">
+<td>A lightweight tool for a single-session task</td>
+<td><strong>v1</strong></td>
+</tr>
+<tr class="odd">
+<td>A tool to take you all the way to a submittable, collaborator-ready research protocol</td>
+<td><strong>v3</strong></td>
+</tr>
+<tr class="even">
+<td>Something tuned for researchers in lower-resource settings (e.g.&nbsp;Nigeria/Africa) needing realistic cost/timeline planning</td>
+<td><strong>v3</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>If you are not sure, install v3.</strong> Every capability in v1 and v2 is still present in v3.</p>
+</section>
+<section id="minute-setup-guide" class="level2">
+<h2 class="anchored" data-anchor-id="minute-setup-guide">5-Minute Setup Guide</h2>
+<section id="step-1-extract-the-archive" class="level3">
+<h3 class="anchored" data-anchor-id="step-1-extract-the-archive">Step 1: Extract the Archive</h3>
+<p>Extract the contents of <code>EduTechTainMent_Research_Assistant.zip</code> using any archive software - the default Windows built-in extractor, <a href="https://www.win-rar.com/download.html?&amp;L=0">WinRAR</a>, or <a href="https://www.7-zip.org/download.html">7-Zip</a> all work.</p>
+<p>It will extract into a folder containing <strong>4 files</strong>:</p>
+<ul>
+<li><code>edutechtainment-research-librarian-v1.skill</code></li>
+<li><code>edutechtainment-research-librarian-v2.skill</code></li>
+<li><code>edutechtainment-research-librarian-v3.skill</code></li>
+<li><code>README.md</code></li>
+</ul>
+</section>
+<section id="step-2-read-the-readme.md-file" class="level3">
+<h3 class="anchored" data-anchor-id="step-2-read-the-readme.md-file">Step 2: Read the README.md File</h3>
+<p>Open <code>README.md</code> using a Markdown reader such as <a href="https://typora.io/">Typora</a>. You can also search <a href="https://google.com">Google</a> to download and install other free Markdown editors. The README explains in detail what each version can help you with. It is recommended to go through it to fully understand what you can achieve with this AI agent skill.</p>
+</section>
+<section id="step-3-install-one-skill" class="level3">
+<h3 class="anchored" data-anchor-id="step-3-install-one-skill">Step 3: Install One Skill</h3>
+<p>All you need to do is install <strong>one</strong> of the three <code>.skill</code> files. Start by installing <strong>v3</strong> of the Research Librarian by following the same installation steps as outlined in the README.</p>
+</section>
+<section id="step-4-restart-claude-desktop" class="level3">
+<h3 class="anchored" data-anchor-id="step-4-restart-claude-desktop">Step 4: Restart Claude Desktop</h3>
+<p>You may need to <strong>restart your Claude Desktop app</strong> before you can invoke the newly installed skill.</p>
+</section>
+<section id="step-5-start-using-it" class="level3">
+<h3 class="anchored" data-anchor-id="step-5-start-using-it">Step 5: Start Using It</h3>
+<p>Manually invoke the skill using the forward slash command <code>/</code>, then type your research question. If you do not have one yet, no problem, the skill is designed to help you develop one.</p>
+</section>
+</section>
+<section id="how-it-works" class="level2">
+<h2 class="anchored" data-anchor-id="how-it-works">How It Works</h2>
+<p>The skill is designed to be <strong>interactive</strong>. You are the pilot; the AI is the copilot. You are the expert with domain expertise; the AI is your research assistant.</p>
+<p>The skill will help you design and conceptualize your entire research workflow:</p>
+<ol type="1">
+<li><strong>Ideation</strong> — from a rough topic to a scoped research question</li>
+<li><strong>Framework selection</strong> — PICO, PICOC, PECO, PEO, CoCoPop, SPICE, SPIDER, or PCC, with precedent citations</li>
+<li><strong>Search strategy</strong> — syntax-validated Boolean queries for PubMed, Scopus, Google Scholar, ScienceDirect, IEEE, plus AI-native tools (Consensus, Inciteful, Research Rabbit)</li>
+<li><strong>SMART objectives</strong> — literature-grounded, Specific, Measurable, Achievable, Relevant, and Time-bound (v2+)</li>
+<li><strong>Variable classification</strong> — dependent/outcome (primary and secondary), independent/input, and confounding variables, grounded in published research</li>
+<li><strong>Statistical analysis recommendation</strong> — interactive decision tree based on variable types</li>
+<li><strong>Feasibility and costing</strong> — realistic timeline and budget bands, with region-specific guidance (v3)</li>
+<li><strong>Limitations critique</strong> — evidence-based, with mitigation plans (v3)</li>
+<li><strong>Study protocol</strong> — full IRB-ready document with correct reporting guideline, tense convention, and mandatory bibliography (v3)</li>
+<li><strong>Workflow documentation</strong> — a detailed, readable record of every decision made, not a condensed summary</li>
+</ol>
+</section>
+<section id="what-this-skill-will-not-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-this-skill-will-not-do">What This Skill Will Not Do</h2>
+<ul>
+<li>It is a <strong>methodology and literature-search assistant</strong>, not a substitute for a qualified statistician, a research ethics committee, or a professional research methodologist</li>
+<li>It will <strong>never fabricate</strong> citations, DOIs, PMIDs, author names, statistics, database syntax, or cost figures</li>
+<li>Recommendations should be <strong>independently verified</strong> before submission to a funding body or ethics committee</li>
+<li>Citations and framework precedents are verified at the time of the conversation; <strong>re-verify close to your actual submission date</strong></li>
+</ul>
+</section>
+<section id="important-note" class="level2">
+<h2 class="anchored" data-anchor-id="important-note">Important Note</h2>
+<p>This skill will not work perfectly for you if you do not act like the pilot who has domain expertise. It is designed with <strong>anaesthesiologists</strong> as the primary focus, but is general-purpose by design.</p>
+<blockquote class="blockquote">
+<p><em>P.S. You can reach out if you have any questions or challenges regarding the use.</em></p>
+</blockquote>
+<div class="download-card">
+<span class="download-icon">📦</span>
+<div>
+<div class="download-label">
+Download the Research Assistant
+</div>
+<div class="download-sub">
+<a href="EduTechTainMent_Research_Assistant.zip">EduTechTainMent_Research_Assistant.zip</a>
+</div>
+</div>
+</div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{abdulwasiu_bamidele_popoola2026,
+  author = {Abdulwasiu Bamidele Popoola, Dr.},
+  title = {EduTechTainMent {Research} {Assistant}},
+  date = {2026-09-10},
+  url = {https://waga43.github.io/anaesthesia-akth/seminars/edutechtainment-research-assistant-setup-guide/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-abdulwasiu_bamidele_popoola2026" class="csl-entry quarto-appendix-citeas">
+Abdulwasiu Bamidele Popoola, Dr. 2026. <span>“EduTechTainMent Research
+Assistant.”</span> September 10. <a href="https://waga43.github.io/anaesthesia-akth/seminars/edutechtainment-research-assistant-setup-guide/">https://waga43.github.io/anaesthesia-akth/seminars/edutechtainment-research-assistant-setup-guide/</a>.
+</div></div></section></div> ]]></description>
+  <category>resources</category>
+  <category>research</category>
+  <category>artificial-intelligence</category>
+  <guid>https://waga43.github.io/anaesthesia-akth/seminars/edutechtainment-research-assistant-setup-guide/</guid>
+  <pubDate>Wed, 09 Sep 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://waga43.github.io/anaesthesia-akth/seminars/edutechtainment-research-assistant-setup-guide/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Enhanced Recovery After Surgery (ERAS)</title>
   <dc:creator>Dr. Amina Nura Yakasai</dc:creator>
